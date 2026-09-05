@@ -1,31 +1,86 @@
 # Kapu / Kaup Lighthouse Beach
 
-**Circuit role:** Must-cover **calmer Udupi beach**.  
-**When:** **A/B/F Sat 14 ~09:45–10:45** (beach only). **C2 Fri 13** after Malpe. **D Sat 16:00–18:00** can include the **lighthouse climb** (gallery often 16:00–18:00). **E:** only as a 07:00 dash on the temple day — tight.
+**Circuit role:** Must-cover **picturesque sunset & rocky headland beach** (iconic 1901 British black-and-white lighthouse).  
+**When to visit:** Approach A/B/F: **Sat 14 Nov ~09:45–10:45** (morning photo/beach stop before heading north) OR Approach C2: **Fri 13 Nov sunset (16:30–18:15)**. Approach D: **Sat 14 Nov 16:30–18:15**.  
+**Location:** ~16 km south of Udupi town (~25 min drive via NH66).
 
-## Pleasant
+---
 
-A **pleasant** Kapu is **cleaner and quieter than Malpe**: gold sand, rocks, lighthouse as a postcard, fewer stalls. CNBC and Karnataka Tourism both call it less crowded than Malpe/Surathkal. November mornings are kind.
+## ASCII Spatial & Headland Layout
 
-## Peace
+```
+                  [ Paved Approach Road & Parking Area ]
+                                     |
+             +-----------------------+-----------------------+
+             |                                               |
+             v                                               v
+   [ Rocky Promontory & Hill ]                     [ Soft Sandy South Beach ]
+   - Giant basalt sea boulders                     - Wide, uncrowded golden sand
+   - 1901 Lighthouse Tower (130 ft)                - PRAM ACCESSIBLE SHORE EDGE
+   - 150 Steep spiral stairs inside                - Gentle shallow waves for 6yo
+   - HAZARDOUS FOR INFANT (Carrier Only)           - Safe family beachcombing
+             |                                               |
+             +-----------------------+-----------------------+
+                                     |
+                                     v
+                  [ Panoramic Sunset Sea Viewpoint ]
+                  - Dramatic crash of waves against granite rocks
+                  - Postcard-perfect silhouette of the lighthouse
+```
 
-This is the **peace** beach of the Udupi pair. Only a short stretch gets busy. Sit away from the lighthouse queue. The 6-year-old can play on damp sand; the infant can nap in the carrier in the breeze.
+---
 
-## Handle kids
+## Pleasant Window
+- **Sunset Window (16:30–18:15):** The setting sun casts an amber glow across the lighthouse tower and the surrounding black granite boulders.
+- **Morning Window (09:00–10:30):** Clear blue sea, empty sands, cool sea breeze. Ideal for Approach A families doing a quick 45-minute photo stop before continuing north along NH66.
 
-- Lighthouse **~150 steps**. **Skip with infant** on Approach A (you have a northbound clock). The **beach** is the must-cover, not the tower.
-- Stroller on the approach road (narrow — watch cars). Carrier on sand.
-- No serious swimming. Rocks = cut feet; water shoes if you have them.
-- Kapu is **south** of Udupi. On a **northbound** Murudeshwar day, do Kapu **before** you commit to NH66 north (A’s Saturday morning).
+---
 
-## What this place covers
+## Peace & Scenic Majesty
+- Kapu is far less commercialized than Malpe. There are no loud jet-skis or noisy carnival stalls.
+- The southern half of the beach offers a vast expanse of soft sand where you can walk in peaceful isolation.
 
-Beach · lighthouse (optional) · kids play bits some evenings · snack stalls · no need for a second restaurant if Mitra Samaj already happened.
+---
 
-## Skip
+## Handling Kids & Baby Logistics
 
-Night visit, climbing with a sleeping infant, treating Kapu as a 3-hour stop.
+```
++--------------------------------------------------------------------------+
+|                         BABY CARE ON SITE                                |
+|                                                                          |
+|  [ Lighthouse Stairs: SKIP ] [ Rocky Warning: Slippery ] [ Safe Beach ]  |
+|  - 150 narrow, steep iron-   - Black rocks near base of  - Keep family   |
+|    spiral stairs with tiny     lighthouse are covered      on soft sand  |
+|    handrails. DO NOT CLIMB     in moss; keep 6yo off       south stretch;|
+|    with an infant in arms!     wet sea boulders.           stroller OK.  |
++--------------------------------------------------------------------------+
+```
 
-## Calm vs crowded
+- **Lighthouse Interior Climb Rules:**
+  - Visiting hours: Usually **04:00 PM – 06:00 PM** only (ticket ₹10–20).
+  - **Decision for this family:** If the father or mother wants to climb for 10 minutes to see the panoramic 360-degree coast view with the 6-year-old, they may take turns. **The 1-year-old infant MUST remain on the ground with the second parent.**
+- **Footwear:** Rocky paths require strapped sandals or shoes with good grip.
+- **Restrooms:** Basic local toilet facilities available near the parking entrance.
 
-Morning **2**. Lighthouse sunset **3**. Monday as in some Tripadvisor notes **1–2**.
+---
+
+## What This Place Covers
+- 130-foot working British lighthouse built in 1901.
+- Scenic rocky headland with crashing sea spray.
+- Peaceful golden sand beach for walking and photography.
+
+---
+
+## What to Skip
+- Carrying an infant up the spiral lighthouse stairwell.
+- Walking on wet, seaweed-covered boulders near the crashing surf.
+
+---
+
+## Calm vs Crowded Matrix
+
+| Time Slot | Crowding (1-5) | Experience |
+|---|---|---|
+| **Morning 08:30–10:30** | **1–2 (Quiet & Serene)**| Crisp light, empty beach, perfect photos |
+| **Weekday 16:30–18:00** | **2–3 (Pleasant)** | Scenic sunset lovers, light crowd |
+| **Weekend 16:30–18:30** | **4 (Crowded)** | Long queue to climb lighthouse tower |

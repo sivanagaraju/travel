@@ -40,29 +40,91 @@ That direction does the **Kukke ghat once, in daylight**, then stays on **NH66**
 
 ---
 
-## ASCII route (clockwise)
+## ASCII route (clockwise) — Distances & Travel Hours for All Places
 
 ```
-HYD  --flight 1h45--  IXE Mangalore
-                         |
-                         |  ~105 km, 2.5–3.5 h  GHAT (Fri morning only)
-                         v
-                    Kukke Subrahmanya
-                         |
-                         |  ~53–56 km, 1–1.5 h
-                         v
-                    Dharmasthala  --  Karkala Basadi  --  Udupi / Malpe / Kapu
-                         |                ~63 km           ~38 km
-                         |
-                         |  NH66 north (linear, no backtrack):
-                         |  Maravanthe photo → Murudeshwar → Idagunji → Eco Beach → Gokarna
-                         |  Udupi → Gokarna ~180 km, ~3 h driving + stops
-                         v
-                    Gokarna (Om / Kudle)   15 Nov birthday, 4 nights
-                         |
-                         |  ~147–168 km, 3–4 h  FLAG vs 2.5 h cap
-                         v
-                    Hubli HBX  --flight ~1h20--  HYD
++----------------------------------------------------------------------------------------------------+
+|               MASTER EXPEDITION CORRIDOR: DISTANCES & TRAVEL HOURS FOR ALL PLACES                 |
++----------------------------------------------------------------------------------------------------+
+
+  [ HYDERABAD (HYD) ]
+          |
+          |  Flight: Non-stop 1h 45m (IndiGo 6E 7581: Dep 06:50 AM -> Arr 08:35 AM)
+          v
+  [ MANGALORE AIRPORT (IXE) ]
+          |
+          |  ~14–20 km, 35–50 min (Smooth city drive to hotel)
+          v
+  [ MANGALORE CITY BASE (The Ocean Pearl) ]
+          |  - Local: Tannirbhavi Beach (~10 km, 20–25 min) / Panambur Beach (~12 km, 25 min)
+          |  - Local: Kadri Manjunatha & Mangaladevi (~4–6 km, 15 min)
+          |
+          |  ~105 km, 2.5–3.5 h (FLAG: Ghat ascent via BC Road, Uppinangady & Gundya on NH73)
+          v
+  [ KUKKE SUBRAHMANYA ]
+          |
+          |  ~35 km, 45–50 min (Scenic foothill state road via Kadaba)
+          v
+  [ SOUTHADKA SRI GANAPATHI ] (Bamboo grove open shrine & brass bell temple)
+          |
+          |  ~20 km, 30–35 min (Gentle rural road; total Kukke->Dharmasthala: ~53–56 km, 1 h 15 m–1.5 h)
+          v
+  [ DHARMASTHALA (Sri Manjunatha) ]
+          |
+          |  ~63–66 km, 1 h 30 m–2 h (State Highway SH37 via Belthangady & Bajagoli)
+          v
+  [ KARKALA CHATURMUKHA BASADI ] (Monolithic Gommateshwara & 108-pillar Jain shrine)
+          |
+          |  ~38–40 km, 45 min–1 h (Smooth State Highway via Moodabidri / Manipal)
+          v
+  [ UDUPI / MALPE BEACH BASE ]
+          |  - Local: Malpe Beach to Sri Krishna Matha (~6 km, 15–20 min)
+          |  - Local: Udupi to Kapu Lighthouse Beach (~16 km, 25–30 min south)
+          |
+          |==================== LINEAR NH66 NORTHBOUND CORRIDOR ====================|
+          |  (No backtracking! Northbound coastal drive with ocean & river views)   |
+          |
+          |  ~52 km, 45–55 min (4-lane coastal highway NH66)
+          v
+  [ MARAVANTHE BEACH ] (Arabian Sea on left, Souparnika River on right; photo stop)
+          |
+          |  ~55 km, 45–55 min (NH66 North via Byndoor & Shiroor)
+          v
+  [ MURUDESHWAR ] (123-ft Shiva Statue, 18-floor Raja Gopura lift, beach promenade)
+          |
+          |  ~21 km, 20–25 min (NH66 North + 2 km inland link)
+          v
+  [ IDAGUNJI MAHA GANAPATI ] (Ancient 1500-year standing Ganesha shrine)
+          |
+          |  ~12 km, 15–20 min (Short link to Sharavathi estuary)
+          v
+  [ HONNAVAR: ECO BEACH KASARKOD & KANDLA VAN MANGROVES ] (Boardwalk & river boating)
+          |
+          |  ~28 km, 30–35 min (NH66 North crossing Sharavathi River bridge)
+          v
+  [ MIRJAN FORT ] (16th-century Pepper Queen fortress; flat stroller lawns)
+          |
+          |  ~24 km, 30–35 min (NH66 North to SH143 Gokarna coastal spur; Honnavar->Gokarna ~52 km, 1h 10m)
+          v
+  [ GOKARNA BEACH BASE (Kudle & Om Beach) ]
+          |  - 15 Nov: 1ST BIRTHDAY REST DAY (0 km highway; private lawn cake & pool)
+          |  - Local: Kudle to Om Beach (~3 km, 10 min)
+          |  - Local: Kudle to Mahabaleshwar & Kotitirtha (~2.5 km, 8 min)
+          |  - Optional morning day-trip: Yana Caves (~48 km, 1 h 20 m each way)
+          |
+          |====================== INLAND ARBAIL GHAT TRANSIT =======================|
+          |  Total: ~155 km, 3.5–4 h drive time + 35 min feeding stop               |
+          |  - Gokarna (13:00) -> Ankola NH66 junction: ~26 km, 30 min              |
+          |  - Arbail Ghat ascent on NH63: ~48 km, 1 h 15 min (winding lush forest) |
+          |  - Yellapur town rest stop (Banana County / Comfort): 35 min feed/change|
+          |  - Yellapur to Hubli Airport bypass on NH63: ~80 km, 1 h 35 min         |
+          v
+  [ HUBLI AIRPORT (HBX) ] (Check-in 17:30 PM; compact, stroller-friendly regional hub)
+          |
+          |  Flight: Non-stop 1h 30m (Fly91 IC 3402: Dep 21:25 PM -> Arr 22:55 PM)
+          v
+  [ HYDERABAD (HYD) ] (Home sweet home by 23:35 PM via ORR)
++----------------------------------------------------------------------------------------------------+
 ```
 
 ---
@@ -148,26 +210,35 @@ Ask every hotel in writing: **baby cot, hot water 24×7, ground-floor or lift, r
 
 ### Transport
 
-- **HYD → IXE morning.** Snapshot (schedules as of Aug–Sep 2026, **reconfirm for 12 Nov**):
-  - IndiGo **6E 7549** historically **~05:35–07:20** or **05:50–07:35**, ~1 h 45 m, ATR 72. Some 2026 seasons show this flight **not every weekday**; from **25 Oct 2026** flightmapper lists **daily 05:50**. [flightmapper](https://info.flightmapper.net/route/IndiGo_6E_HYD_IXE)
+- **HYD → IXE morning non-stop flight (Verified IndiGo schedule for Thu 12 Nov 2026):**
+  - **IndiGo 6E 7581**: **06:50 AM Dep HYD → 08:35 AM Arr IXE Mangalore** (Duration: **1 h 45 m**, Non-stop).
+  - **Why 06:50 AM is ideal:** Avoids a brutal 03:00 AM wakeup. A civilized 04:15 AM home wakeup and 04:45 AM cab gets the family to RGIA by 05:20 AM (90-min buffer for DigiYatra/family drop).
+  - **Live Fare Snapshot for Thu 12 Nov (Official IndiGo portal):**
+    - **Saver Fare:** **₹8,331** / seat (includes 15 kg check-in baggage + 7 kg cabin bag).
+    - **Flexi Plus Fare:** **₹9,201** / seat (includes free snack + free standard seat selection + 15 kg baggage).
+    - **IndiGo UpFront:** **₹9,801** / seat (includes Front two-row seats + 20 kg check-in baggage + snack).
+    - **Total Outbound for Family (3 ticketed seats + 1 infant lap):**
+      - On Saver Fare: 3 × ₹8,331 = ₹24,993 + ₹1,750 infant fee = **₹26,743** (~₹26,750).
+      - On Flexi Plus: 3 × ₹9,201 = ₹27,603 + ₹1,750 infant fee = **₹29,353** (~₹29,400).
   - Daily evening backup **6E 7103 ~18:35–20:20** — **do not use** for this plan (kills the beach evening and next day’s 07:00 Kukke start).
-  - Connecting via BLR exists (~3–8 h). Avoid with infant unless the morning nonstop is gone.
-- **Fare snapshot (early Sep 2026, not Nov):** ixigo showed nonstop IndiGo roughly **₹10,000–14,000** one way and some connecting tickets cheaper. Prompt’s ₹5,928–13,000 band is plausible off-peak; **treat as “recheck”**. [ixigo HYD–IXE](https://www.ixigo.com/flight-schedule/hyderabad-mangalore-hyd-ixe)
-- Innova Crysta **waiting at IXE** with **installed rear-facing / infant car seat**. Stroller gate-checked.
+  - Connecting via BLR exists (~4–8 h). Strictly avoid with an infant.
+- Innova Crysta **waiting at IXE arrivals (08:45–09:15 AM)** with **installed rear-facing infant car seat**. Stroller gate-checked.
 
-### Timeline
-
+### Timeline (06:50 AM Non-Stop Flight Version)
 
 | Time          | What                                                                                                                                              |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 03:30–04:30  | HYD with infant: pre-cut fruit, formula/milk, change of clothes in cabin bag                                                                      |
-| ~05:35–07:35 | Fly. Request bulkhead if available                                                                                                                |
-| 08:00–09:00  | IXE → hotel. Shower, first proper breakfast (idli / sambar / porridge)                                                                           |
-| 09:30–12:00  | Hotel. Infant nap. 6-year-old quiet play / pool if the infant is down with one adult                                                              |
-| 12:30–14:30  | Lunch at hotel restaurant (high chair where listed). Second nap                                                                                   |
-| 16:00         | Drive to**Panambur** (closer to IXE, more “evening beach” infrastructure) **or Tannirbhavi** (tree park, usually slightly calmer than Panambur) |
-| 16:30–18:30  | Sand, sunset,**ankles-only water**. Lifeguards / toilets at both; Tannirbhavi has a 15-acre tree park                                             |
-| 19:00         | Hotel dinner. Lights out by 21:00                                                                                                                 |
+| 04:15–04:45 AM  | Gentle home wakeup. Cab (Uber XL / airport taxi) via Outer Ring Road (ORR). Infant sleeps in car seat / carrier                                  |
+| 05:20–06:15 AM  | RGIA Entry via DigiYatra/Family Gate. Check in 3 bags (45 kg total). Gate-check stroller with "Door Delivery" tag. Formula & diaper bag screening |
+| 06:15–06:50 AM  | Priority family boarding. Hand folded stroller at aircraft door. Settle in Bulkhead / Row 1–2 seats                                              |
+| 06:50–08:35 AM  | Non-stop flight (1h 45m). Bottle feed / nurse baby during climb (06:50) and descent (08:10) for ear pressure equalization                         |
+| 08:35–09:15 AM  | Touch down at Mangalore (IXE). Retrieve stroller at aircraft door. Collect checked luggage; meet Innova Crysta driver at arrivals porch           |
+| 09:15–09:50 AM  | IXE → *The Ocean Pearl* hotel (~15 km, 30 min). Check in, refresh, hot breakfast (idlis, dosas, fresh fruits, warm milk)                          |
+| 10:30–13:00 PM  | Hotel nursery rest. Infant long morning AC nap. 6yo relaxing or pool visit with one parent                                                        |
+| 13:00–14:30 PM  | Mild hotel lunch (curd rice, mild dal, khichdi). Afternoon buffer & rest                                                                          |
+| 16:00 PM        | Short drive to **Tannirbhavi Beach** (tree park, calm shoreline) or **Panambur Beach** (~10–12 km, 20–25 min)                                     |
+| 16:30–18:30 PM  | Golden hour sunset, soft white sand play, dipping toddler toes in shallow shoreline foam. Clean restrooms & lifeguards on duty                   |
+| 19:00 PM        | Wholesome dinner at *The Ocean Pearl* (Sagar Ratna). Early bedtime by 20:30–21:00 PM for fresh 07:30 AM temple belt start tomorrow               |
 
 **Thursday is not Sunday** — Panambur/Tannirbhavi evening should be **moderate**, not the Sunday crush.
 
@@ -503,10 +574,10 @@ Print this. Tick when booked.
 
 ### Flights
 
-- [ ]  **HYD → IXE** morning **12 Nov 2026**. Prefer IndiGo nonstop (~1 h 45 m). Recheck **6E 7549** operates that Thursday.
+- [ ]  **HYD → IXE** morning **12 Nov 2026**. Book IndiGo non-stop **6E 7581 (06:50 AM Dep → 08:35 AM Arr IXE)** (Saver fare ₹8,331 / Flexi Plus ₹9,201).
 - [ ]  Infant ticket (lap) + extra cabin bag for diapers.
-- [ ]  **HBX → HYD** **18 Nov 2026** (7-day) or **17 Nov** (6-day). Prefer **evening Fly91 ~21:25**, not 09:55 IndiGo.
-- [ ]  Seats together. Bulkhead request.
+- [ ]  **HBX → HYD** **18 Nov 2026** (7-day) or **17 Nov** (6-day). Book **Fly91 IC 3402 (21:25 PM Dep → 22:55 PM Arr HYD)**, not 09:55 IndiGo.
+- [ ]  Seats together. Bulkhead / Front row request.
 - [ ]  **Do not** book HYD–coast by car, bus, or train.
 
 ### Car (IXE → HBX)
