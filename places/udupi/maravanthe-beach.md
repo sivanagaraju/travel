@@ -1,8 +1,11 @@
-# Maravanthe Beach & Souparnika River Stretch
+# Maravanthe Beach (Amarvante) & Souparnika River Stretch
 
-**Circuit role:** Must-cover **iconic NH66 scenic highway drive & photo stop** (Arabian Sea on the left, Souparnika River on the right).  
-**When to visit:** Approach A/B/C/F: **Sat 14 Nov ~13:45–14:15** (driving north towards Murudeshwar). Approach D: **Sun 15 Nov ~13:45**. Approach E: **Mon 16 Nov (southbound)**.  
-**Location:** NH66, ~52 km north of Udupi (~50 min drive); ~54 km south of Murudeshwar (~45 min).
+**Circuit role:** Must-cover **iconic NH66 scenic highway drive & photo stop** (Arabian Sea on the left, Souparnika River on the right; often referred to phonetically as **Amarvante / Maravante Beach**).  
+**When to visit:**  
+- **Approach H1 / H2 / A / B / C / F:** **Sat 14 Nov ~11:30–12:15 PM** (Driving north along NH66 towards Murudeshwar).  
+- **Approach D:** **Sun 15 Nov ~13:45 PM**.  
+- **Approach E:** **Mon 16 Nov (Southbound)**.  
+**Location:** NH66 coastal expressway, ~52 km north of Udupi (~50 min drive); ~54 km south of Murudeshwar (~45 min drive).
 
 ---
 
@@ -40,14 +43,29 @@
 
 ---
 
+## The Geography of Maravanthe (Amarvante)
+
+Maravanthe (commonly written as **Amarvante** by regional travelers) is celebrated as one of the most picturesque natural coastal stretches in Asia.
+
+For a distance of about 1 kilometer, the 4-lane NH66 highway is wedged between two contrasting bodies of water:
+1. To your **West (Left)**: The vast, pounding, deep-blue **Arabian Sea**.
+2. To your **East (Right)**: The tranquil, emerald-green **Souparnika River**, gliding peacefully against the backdrop of the Kodachadri mountain range before meeting the sea at the Gangolli estuary.
+
+This is an **effortless 20-minute roadside stop**: park the Innova Crysta in the designated viewpoint bay, step out to capture iconic photographs, sip sweet tender coconut water, let the 6-year-old stretch their legs, and check the baby's diaper before continuing smoothly to Murudeshwar.
+
+---
+
 ## Pleasant Window
-- **13:45–14:15 (20–30 Minute Stretch Stop):** As you drive north along the coastal corridor, NH66 runs directly atop a narrow spit of land. For about 1 kilometer, you are flanked by the blue Arabian Sea on your left and the tranquil green Souparnika River on your right.
-- This is an **effortless 20-minute rest stop**: park the Innova in the designated viewpoint bay, step out to take iconic photos, drink sweet tender coconut water, let the 6-year-old stretch their legs, and check the baby's diaper before resuming the drive to Murudeshwar.
+
+- **Midday 11:30–12:30 PM (Saturday 14 Nov):**
+  - High noon sun illuminates the contrasting colors: deep turquoise blue on the ocean side and emerald green on the river side.
+  - Quick, breezy 20-minute halt requires zero walking—viewable right from the car seat if the baby is asleep!
 
 ---
 
 ## Safety Alert & Bathing Warning
-- **STRICTLY NO OCEAN SWIMMING:** The sea at Maravanthe is open ocean with steep underwater drop-offs and strong undertows. It is listed by tourism authorities as a **viewpoint beach, NOT a bathing beach**.
+
+- **STRICTLY NO OCEAN SWIMMING:** The sea at Maravanthe is open ocean with steep underwater drop-offs and strong rip currents. It is strictly a **viewpoint beach, NOT a bathing beach**.
 - **Highway Caution:** NH66 is a high-speed corridor. Never let children walk on the road shoulder. Stay strictly within the paved pedestrian viewpoint enclosure protected by concrete bollards.
 
 ---
@@ -65,7 +83,7 @@
 +--------------------------------------------------------------------------+
 ```
 
-- **Restroom Alert:** Viewpoint pull-offs lack hygienic restrooms. Use the washrooms at your Udupi hotel before leaving, or wait until reaching the Murudeshwar RNS/Naveen complex 45 minutes ahead.
+- **Restroom Alert:** Viewpoint pull-offs lack hygienic restrooms. Use the washrooms at your Udupi hotel before leaving, or stop at *Hotel Parijatha Kundapura* (15 min south) or wait until reaching the Murudeshwar RNS/Naveen complex 45 minutes ahead.
 
 ---
 
