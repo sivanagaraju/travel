@@ -37,18 +37,23 @@ Arrival hub for Approaches A, B, C, D, and F via Mangalore Airport (IXE).
 
 ---
 
-## 3. Inland Temple Belt — [temple-belt/](temple-belt/)
+## 3. Inland Temple Belt & Foothills Corridor — [temple-belt/](temple-belt/)
 
-Foothills of the Western Ghats connecting Mangalore to Udupi. **Weekday visit strictly required for Kukke.**
+Foothills of the Western Ghats connecting Mangalore, Kukke, Dharmasthala, and Udupi across three distinct travel corridors.
 
 | Stop | File | Key Feature |
 |---|---|---|
+| **Uppinangady Sahasralinga & Sangama** | [temple-belt/uppinangady-sahasralingeshwara.md](temple-belt/uppinangady-sahasralingeshwara.md)| "Dakshina Kashi" confluence of Netravathi & Kumaradhara rivers; midway rest stop |
+| **Puttur Mahalingeshwara & Campco** | [temple-belt/puttur-mahalingeshwara.md](temple-belt/puttur-mahalingeshwara.md)| 12th-century Shiva temple, sacred Bangarada Kere pond, Asia\'s largest cooperative chocolate store |
 | **Kukke Subrahmanya** | [temple-belt/kukke-subrahmanya.md](temple-belt/kukke-subrahmanya.md) | Lord Subrahmanya serpent sanctum, mountain backdrop, Annadana meal |
 | **Southadka Sri Mahaganapathi** | [temple-belt/southadka-ganapathi.md](temple-belt/southadka-ganapathi.md) | Open-air temple in bamboo grove, thousands of bells, 100% stroller friendly |
+| **Surya Sadashiva Temple** | [temple-belt/surya-sadashiva-temple.md](temple-belt/surya-sadashiva-temple.md)| Famous clay cradle offerings (*Matti Harake*) for infant health & thanksgiving |
 | **Dharmasthala Manjunatha** | [temple-belt/dharmasthala.md](temple-belt/dharmasthala.md) | Historic Shiva shrine under Jain administration; enter before 14:20 close |
 | **Chaturmukha Basadi, Karkala** | [temple-belt/karkala-chaturmukha-basadi.md](temple-belt/karkala-chaturmukha-basadi.md)| 108 granite pillars, 4 identical sanctum doors, breezy hilltop |
-| **Moodabidri 1,000 Pillar Temple**| [temple-belt/moodabidri-thousand-pillar-temple.md](temple-belt/moodabidri-thousand-pillar-temple.md)| Intricate monolithic stone pillars, completely flat, stroller accessible |
 | **Karkala Gommateshwara** | [temple-belt/karkala-gommateshwara.md](temple-belt/karkala-gommateshwara.md)| 42-foot monolithic Bahubali statue, drive car to top terrace |
+| **Attur St. Lawrence Minor Basilica** | [temple-belt/karkala-attur-st-lawrence.md](temple-belt/karkala-attur-st-lawrence.md)| 18th-century miracle shrine, holy Pushkarini, 100% stroller-friendly gardens |
+| **Moodabidri 1,000 Pillar Temple**| [temple-belt/moodabidri-thousand-pillar-temple.md](temple-belt/moodabidri-thousand-pillar-temple.md)| Intricate monolithic stone pillars, completely flat, stroller accessible |
+| **Hasta Shilpa Heritage Village** | [temple-belt/manipal-hasta-shilpa-heritage.md](temple-belt/manipal-hasta-shilpa-heritage.md)| 26 restored historic coastal homes, shaded forest walk, 12 min from Malpe |
 
 ---
 
