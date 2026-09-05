@@ -65,11 +65,11 @@ Spiritual anchor of Madhwa Vaishnavism and Karnataka's premier white-sand family
 |---|---|---|
 | **Sri Krishna Matha** | [udupi/udupi-sri-krishna-matha.md](udupi/udupi-sri-krishna-matha.md) | Navagraha Kindi silver window, Mitra Samaj breakfast, strict dress code |
 | **Malpe Beach & Sea Walk** | [udupi/malpe-beach.md](udupi/malpe-beach.md) | Safe swim buoys, paved 500m Sea Walk pier, Paradise Isle beach base |
-| **Mattu Beach** | [udupi/mattu-beach.md](udupi/mattu-beach.md) | Secluded pristine shoreline 10 km south of Malpe, GI-tagged Mattu Gulla brinjal lore, peaceful sunset strolls |
-| **Varanga Lake Jain Temple (Kere Basadi)** | [udupi/varanga-lake-jain-temple.md](udupi/varanga-lake-jain-temple.md)| 850-year-old 12th-century Chaturmukha water temple in 14-acre lotus lake, calm 3-min wooden boat glide, turtle feeding |
 | **Kapu / Kaup Lighthouse Beach** | [udupi/kapu-lighthouse-beach.md](udupi/kapu-lighthouse-beach.md) | 1901 British lighthouse, dramatic sunset boulders (Carrier only) |
+| **Mattu Beach** | [udupi/mattu-beach.md](udupi/mattu-beach.md) | Secluded coastal sunset, Mattu Gulla brinjal lore, peaceful surf, roadside stroller path |
+| **Varanga Lake Jain Temple** | [udupi/varanga-lake-jain-temple.md](udupi/varanga-lake-jain-temple.md)| 850-yr-old Kere Basadi on 14-acre lotus lake, 3-min boat ride, turtle feeding for kids |
 | **Anegudde Sri Vinayaka** | [udupi/anegudde-vinayaka.md](udupi/anegudde-vinayaka.md) | Kumbhashi Mukti Kshetra on NH66, silver Ganesha, child blessing, ramp access |
-| **Maravanthe Beach Vista (Amarvante)** | [udupi/maravanthe-beach.md](udupi/maravanthe-beach.md) | Sea on left, river on right; iconic 20-min NH66 photography halt (phonetically known as Amarvante) |
+| **Maravanthe Beach Vista (Amarvante)** | [udupi/maravanthe-beach.md](udupi/maravanthe-beach.md) | Sea on left, river on right; iconic 20-min NH66 photography halt |
 | **Delta Beach (Kodi Bengre)** | [udupi/delta-beach-kodi-bengre.md](udupi/delta-beach-kodi-bengre.md)| Quiet Suvarna river meets Arabian sea estuary spit, coconut grove |
 | **St. Mary's Island** | [udupi/st-marys-island.md](udupi/st-marys-island.md) | **SKIP WITH INFANT:** Wet boat wading, unshaded sharp volcanic basalt rocks |
 
