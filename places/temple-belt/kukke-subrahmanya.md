@@ -1,7 +1,7 @@
 # Kukke Subrahmanya Temple
 
 **Circuit role:** Must-cover **Western Ghats pilgrimage temple** (Lord Kartikeya / Subrahmanya as serpent protector).  
-**When to visit:** Approach G1 / C1: **Thu 12 Nov overnight base & evening darshan**. Approach G2: **Thu 12 Nov midday darshan (12:00–13:30)**. Approach A/B/D/F: **Fri 13 Nov morning (09:30–12:30)**. Approach C2: **Thu 12 Nov day-stop**.  
+**When to visit:** Approach H2: **Thu 12 Nov midday darshan (11:45–13:30) en route to Malpe Beach**. Approach H1 / G1 / C1: **Thu 12 Nov overnight base & cool evening darshan**. Approach G2: **Thu 12 Nov midday darshan (12:00–13:30)**. Approach A/B/D/F: **Fri 13 Nov morning (09:30–12:30)**. Approach C2: **Thu 12 Nov day-stop**.  
 **Driving distance:** ~105 km from Mangalore (2.5–3.5 h through Uppinangady ghat road). **Strict rule: No ghat driving after 18:00.**
 
 ---

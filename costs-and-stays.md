@@ -121,6 +121,9 @@ Live pricing tiers verified on **IndiGo official booking portal for Thu 12 Nov 2
 | **Grand Total (Approach A)** | **~₹1,28,000** | **~₹1,64,500** | **~₹2,10,500** | **Per paying adult/child: ~₹42,500 – ₹70,000** |
 
 ### Variance for Other Approaches
+- **Approach H2 (2-Base Sanctuary: 2n Malpe, 4n Gokarna):** Same total (~₹1.64 lakh), but only 2 hotel bookings to manage; saves on packing hassle and zero hotel change on Friday.
+- **Approach H1 (1n Kukke, 1n Malpe, 4n Gokarna):** Slightly cheaper (~₹1.58 lakh) due to subsidized temple guest house at Kukke on Night 1 (~₹2,000 vs ₹6,500).
+- **Approach G1 / G2 (Inland Temple Stays):** ~₹1.58–₹1.60 lakh (subsidized temple guest houses on Night 1).
 - **Approach B (6 Days / 5 Nights):** Deduct ~₹10,000–₹14,000 (1 fewer resort night in Gokarna, 1 fewer cab day).
 - **Approach C1 / C2 (8 Days / 7 Nights):** Add ~₹11,000–₹16,000 (1 extra hotel night in Kukke/Malpe, 1 extra cab day).
 - **Approach D (4 Bases):** Similar total (~₹1.64 lakh), but split across 4 separate hotel transactions.

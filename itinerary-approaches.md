@@ -1,10 +1,12 @@
-# Eight Ways to Run This Family Trip — Pick One, Don’t Mix Clocks
+# Ten Ways to Run This Family Trip — Pick One, Don’t Mix Clocks
 
-This is **not** one itinerary with a footnote. It is **eight distinct trip architectures** for the same Hyderabad family of 4 (working parents, 6-year-old child, and an infant turning 1 on **Sunday 15 Nov 2026**). Every approach covers the **same core must-stop list** unless explicitly stated.
+This is **not** one itinerary with a footnote. It is **ten distinct trip architectures (Approaches A through H2)** for the same Hyderabad family of 4 (working parents, 6-year-old child, and an infant turning 1 on **Sunday 15 Nov 2026**). Every approach covers the **same core must-stop list** unless explicitly stated.
 
 Read this file first to **choose your approach**. Then open the matching execution plan:
-- **Approach A (Recommended Coastal Default):** [coastal-karnataka-family-itinerary.md](coastal-karnataka-family-itinerary.md) (7-day hour-by-hour plan).
-- **Approach G1 (Direct Kukke Stay) & G2 (Direct Dharmasthala Stay):** The premier Day-1 inland direct alternatives that eliminate Friday's grueling car haul within the standard 12–18 Nov dates.
+- **Approach H2 (The 2-Base Coastal Sanctuary — Recommended Best Overall):** Only 2 hotel bases the entire trip (2n Malpe + 4n Gokarna). Visits Kukke Subrahmanya on Day 1, skips Dharmasthala, gives kids a 100% car-free beach Friday in Malpe, and protects the Sunday 15 Nov birthday!
+- **Approach H1 (Kukke-Only Foothill Pioneer):** 1n Kukke, 1n Malpe, 4n Gokarna. Skips Dharmasthala to slash Friday driving to 130 km and reach Malpe Beach by 14:30 PM!
+- **Approach G1 (Direct Kukke Stay) & G2 (Direct Dharmasthala Stay):** Day-1 inland direct architectures that cover **both** Kukke and Dharmasthala without Friday exhaustion.
+- **Approach A (Recommended Coastal Default):** [coastal-karnataka-family-itinerary.md](coastal-karnataka-family-itinerary.md) (7-day hour-by-hour classic plan).
 - **Approach B:** 6-day tight plan (returns Tuesday night 17 Nov).
 - **Approaches C–F:** Extended, split-hop, and reverse architectures detailed below.
 - **Places by town:** [places/README.md](places/README.md) (attractions, baby amenities, quiet zones).
@@ -27,17 +29,23 @@ Head straight to Western Ghats                                   Check into Mang
 temples from Mangalore Airport!                                  Tannirbhavi Beach sunset;
 Eliminates Friday's 260 km marathon.                             Face 260 km temple haul on Friday.
      |                                                                     |
-     +-------------------+                                                 +-------------------+
-     |                   |                                                 |                   |
-     v                   v                                                 v                   v
-[ APPROACH G1 ]     [ APPROACH G2 ]                               Can you add Wed 11 Nov?     Return 17 Nov?
-Sleep Kukke         Sleep Dharmasthala                                     |                   (6 days only)
-- Direct IXE->Kukke - Direct IXE->Kukke(darshan)                           |                         |
-- 12:30 check-in      ->Dharmasthala (15:30)                               |                         v
-- Cool evening puja - Evening lit-up temple                                |                   [ APPROACH B ]
-- Fri drive: 156 km - Fri drive: ONLY 102 km!                              |                   - Tight 6-day
-- Rest 15 Nov B'day - Rest 15 Nov B'day                                    |                   - Rest B'day
-                                                                           |
+     +----------------------------------+                                  +-------------------+
+     |                                  |                                  |                   |
+     v                                  v                                  v                   v
+[ SKIP DHARMASTHALA? ]        [ BOTH KUKKE & DHARMASTHALA ]       Can you add Wed 11 Nov?     Return 17 Nov?
+Focus 100% on Kukke;          Cover both sacred temples;                   |                   (6 days only)
+Maximum beach & kid calm!     Accept inland temple stays.                  |                         |
+     |                                  |                                  |                         v
+     +-------------------+              +-------------------+              |                   [ APPROACH B ]
+     |                   |              |                   |              |                   - Tight 6-day
+     v                   v              v                   v              |                   - Rest B'day
+[ APPROACH H2 ]     [ APPROACH H1 ] [ APPROACH G1 ]     [ APPROACH G2 ]    |
+THE 2-BASE MASTER   KUKKE NIGHT     SLEEP KUKKE         SLEEP DHARMASTHALA |
+- Kukke midday      - Kukke night   - Direct to Kukke   - Kukke PM darshan |
+- 2n Malpe Beach    - 14:30 Malpe   - Evening puja      - DS night stay    |
+- Car-free Friday!    beach arrival - Fri drive 156km   - Fri drive 102km  |
+- Lowest stress     - Fri drive 130km - Rest B'day       - Rest B'day       |
+- Rest B'day        - Rest B'day                                          |
                                                       +--------------------+--------------------+
                                                       |                                         |
                                                       v                                         v
@@ -58,15 +66,60 @@ Sleep Kukke         Sleep Dharmasthala                                     |    
 
 | Approach | Nights & Bases | Infant Birthday (15 Nov) | Hardest Car Day | Kid Stress (1-5) | Hotel Shifts | Non-Stop Flights Required | Best If... |
 |---|---|---|---|---|---|---|---|
-| **G1 (Inland Kukke)** | 1n Kukke, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 4 h) | **1.8 / 5 (Very Low)** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | **Top Recommendation:** You want to skip Mangalore city and split the temple driving across Thu & Fri without taking extra leave. |
-| **G2 (Inland DS)** | 1n Dharmasthala, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 4 h) | **1.7 / 5 (Lowest 7-Day)**| 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | **Super-Gentle Friday:** Want Friday driving capped to just 102 km and want kids to experience the famous Annadana & Car Museum. |
-| **A (Coastal Default)**| 1n M’lore, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Fri 13 Nov (~262 km, 6 h) | **2.5 / 5** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | You prefer a 3-star city hotel on Night 1 (The Ocean Pearl) and accept an intense Friday temple haul. |
+| **H2 (2-Base Sanctuary)**| 2n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 4 h) | **1.4 / 5 (Lowest of All!)**| **2 bases only** | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | **TOP PICK FOR INFANTS:** Skip Dharmasthala, visit Kukke on Day 1, unpack only TWICE, and enjoy a 100% car-free beach Friday in Malpe! |
+| **H1 (Kukke-Only)** | 1n Kukke, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 4 h) | **1.6 / 5 (Very Low)** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | Want cool evening puja at Kukke + want to arrive at Malpe Beach by 14:30 PM on Friday for 4.5 hours of beach play. |
+| **G2 (Inland DS)** | 1n Dharmasthala, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 4 h) | **1.7 / 5 (Very Low)** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | Want both temples; Friday driving capped to just 102 km; kids see Annadana dinner & vintage car museum. |
+| **G1 (Inland Kukke)** | 1n Kukke, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 4 h) | **1.8 / 5 (Very Low)** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | Want both temples; evening darshan at Kukke; Friday driving reduced to 156 km across 4 easy hops. |
+| **A (Coastal Default)**| 1n M’lore, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Fri 13 Nov (~262 km, 6 h) | **2.5 / 5 (Moderate)** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | You prefer a 3-star city hotel on Night 1 (The Ocean Pearl) and accept an intense Friday temple haul. |
 | **B (Tight 6-Day)** | 1n M’lore, 1n Udupi, 3n Gokarna | **100% Rest Day (0 km)** | Fri 13 Nov (~262 km, 6 h) | **3.0 / 5** | 3 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91 17 Nov) | Constrained leave; must return to Hyderabad by Tuesday night 17 Nov. |
 | **C1 (8-Day Temple)** | 1n M’lore, 1n Kukke, 1n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Sat 14 Nov (~180 km, 3.5 h) | **1.8 / 5** | 4 bases | HYD→IXE (11 Nov), HBX→HYD (21:25 Fly91 18 Nov) | Can add Wed 11 Nov; want an unhurried night at Kukke and full day in Mangalore. |
-| **C2 (8-Day Beach)** | 1n M’lore, 2n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Thu 12 Nov (~262 km, 6 h) | **1.5 / 5 (Lowest Overall)**| 3 bases | HYD→IXE (11 Nov), HBX→HYD (21:25 Fly91 18 Nov) | Can add Wed 11 Nov; want a completely car-free Friday playing on Malpe Beach. |
+| **C2 (8-Day Beach)** | 1n M’lore, 2n Udupi, 4n Gokarna | **100% Rest Day (0 km)** | Thu 12 Nov (~262 km, 6 h) | **1.5 / 5** | 3 bases | HYD→IXE (11 Nov), HBX→HYD (21:25 Fly91 18 Nov) | Can add Wed 11 Nov; want a completely car-free Friday playing on Malpe Beach. |
 | **D (4 Bases / Risk)**| 1n M’lore, 1n Dharmasthala, 1n Udupi, 3n Gokarna | **TRANSFER DAY (180 km)** | Sun 15 Nov (~180 km, 4.5 h) | **4.5 / 5 (High Stress)** | 4 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | **NOT RECOMMENDED:** Forces parents to pack bags and spend the 1st birthday driving on NH66. |
 | **E (Reverse)** | 4n Gokarna, 1n Udupi, 1n M’lore | **100% Rest Day (0 km)** | Tue 17 Nov (~262 km + ghat) | **4.0 / 5** | 3 bases | HYD→HBX (08:20 IndiGo), IXE→HYD (21:10 IndiGo) | Want beaches first; forces grueling 260 km ghat driving onto tired children at the end of the trip. |
 | **F (Murudeshwar Stop)**| 1n M’lore, 1n Udupi, 1n Murudeshwar, 3n Gokarna | **SHORT HOP (~78 km) + Rest PM** | Fri 13 Nov (~262 km, 6 h) | **2.5 / 5** | 4 bases | HYD→IXE (06:50 IndiGo 6E 7581), HBX→HYD (21:25 Fly91) | Breaks Saturday's 180 km drive into two easy hops; see Murudeshwar illuminated at night. |
+
+---
+
+## Strategic Deep-Dive: Skipping Dharmasthala & Focusing ONLY on Kukke Subrahmanya
+
+### Does Skipping Dharmasthala Really Help?
+**YES — It is one of the most powerful optimizations possible for a family with an infant and a 6-year-old child.**
+
+Here is why skipping Dharmasthala transforms the vacation:
+
+```
++--------------------------------------------------------------------------------------------------+
+|                   THE 5 TRANSFORMATIVE WINS OF SKIPPING DHARMASTHALA                             |
++--------------------------------------------------------------------------------------------------+
+| 1. ELIMINATES THE 14:30 PM TIME BOMB:                                                            |
+|    Dharmasthala's inner sanctum shuts at 14:30 PM until 17:00. In two-temple itineraries, parents   |
+|    are panicked: rushing out of Kukke, speeding on hill roads, and running to beat the queue gate.|
+|    Skipping it eliminates 100% of schedule anxiety.                                              |
+|                                                                                                  |
+| 2. CUTS FRIDAY HIGHWAY DRIVING IN HALF:                                                          |
+|    Instead of a grueling 262 km across 4 towns, Friday driving drops to ~130 km (Approach H1)    |
+|    or ZERO KM (Approach H2)!                                                                     |
+|                                                                                                  |
+| 3. GIVES KIDS 4+ HOURS OF DAYLIGHT BEACH TIME:                                                   |
+|    In two-temple plans, you reach Malpe at 17:45–18:30 PM (exhausted, dark). In Approach H1, you |
+|    arrive at Paradise Isle Beach Resort by 14:30 PM for swimming pool splashes and sand castles! |
+|                                                                                                  |
+| 4. HALVES TEMPLE QUEUE & DRESS CODE HASSLES:                                                     |
+|    At both Kukke and Dharmasthala, men must remove shirts/vests and navigate stone courtyards    |
+|    holding the baby bare-chested. Doing this once is spiritual; doing it twice in 4 hours on hot |
+|    afternoons is exhausting for both father and infant.                                          |
+|                                                                                                  |
+| 5. ENABLES THE HOLY GRAIL "2-BASE VACATION" (APPROACH H2):                                       |
+|    Unpack only TWICE the entire 7-day trip: 2 nights at Malpe Beach + 4 nights at Gokarna Beach! |
++--------------------------------------------------------------------------------------------------+
+```
+
+### The Spiritual & Deity Balance: Why You Miss Nothing
+Devotees often worry about "missing" Dharmasthala. But look at the spiritual geometry of the trip:
+1. **Lord Subrahmanya (Kukke):** The divine commander and serpent deity. In Hindu tradition, Lord Subrahmanya is the **paramount protector of young children, health, fertility, and family prosperity** (*Santana Prapti & Bala Raksha*). Visiting Kukke is the spiritual highlight for an infant turning 1.
+2. **Lord Balakrishna (Udupi):** The child incarnation of Lord Vishnu. The 6-year-old child and 1-year-old baby receive direct blessings through the sacred Kanakana Kindi.
+3. **Lord Shiva / Atmalinga (Gokarna Mahabaleshwar):** The primal Jyotirlinga on the shores of the Arabian Sea. The family conducts the 1st birthday Archana pooja here on Sunday 15 Nov.
+*Result:* Lord Subrahmanya (Son) + Lord Krishna (Child God) + Lord Shiva (Father) — the trinity of blessings is **100% complete**, even without Dharmasthala!
 
 ---
 
@@ -81,8 +134,9 @@ In classic Approach A, you drive 20 minutes into Mangalore city, check in at The
 
 ### The Solution: Drive Inland on Thursday Morning!
 Instead of driving into Mangalore city, the Innova driver takes the bypass straight onto **NH73 toward the Western Ghats**:
-1. **Probability G1 (Direct Kukke Overnight):** Drive 105 km directly to Kukke Subrahmanya on Thursday morning. The kids nap in the AC car. Check into Kukke Temple Guest House by 12:30 PM. Rest all afternoon. Visit the temple in the cool, unhurried evening. On Friday, you wake up *already in the foothills* — Friday driving drops to just **156 km**!
-2. **Probability G2 (Kukke Darshan + Dharmasthala Overnight):** Drive to Kukke for afternoon darshan, then take an easy 54 km scenic hop to Dharmasthala. Check into Dharmasthala SDM Guest House by 15:30 PM. Visit Lord Manjunatha Swamy under evening illuminations and dine at the sacred Annapoorna Annadana hall. On Friday, driving to Malpe is **ONLY 102 km**!
+1. **Approach H2 (Kukke Midday + 2 Nights Malpe Beach):** Drive to Kukke for midday darshan (12:00–13:30), then drive straight to Malpe Beach by 17:00 PM for 2 unbroken resort nights!
+2. **Approach H1 (Direct Kukke Overnight, Skip DS):** Drive to Kukke by 12:30 PM, enjoy a 3-hour afternoon baby nap, attend cool evening Deeparadhana, and drive to Malpe by 14:30 PM on Friday!
+3. **Approach G1 & G2:** Keep both temples by sleeping at Kukke (G1) or Dharmasthala (G2).
 
 ---
 
@@ -106,24 +160,19 @@ Instead of driving into Mangalore city, the Innova driver takes the bypass strai
   - *Private Backup Alternative:* **SLR Residency** (private 3-star hotel on Main Road; 24-hr hot water, elevator, multi-cuisine AC restaurant; ₹2,800–₹4,000/night).
 
 ### 2. Dharmasthala SDM Temple Trust Accommodation
-- **Administering Authority:** Sri Dharmasthala Manjunatheshwara (SDM) Dharmothana Trust (headed by Dharmadhikari Dr. D. Veerendra Heggade). Renowned throughout India for immaculate discipline and administrative efficiency.
+- **Administering Authority:** Sri Dharmasthala Manjunatheshwara (SDM) Dharmothana Trust (headed by Dharmadhikari Dr. D. Veerendra Heggade).
 - **Key Guest House Complexes:**
   - **Netravathi Guest House:** Flagship modern pilgrim complex. Immaculate AC Deluxe family suites, elevators, manicured gardens, quiet atmosphere. Top recommendation for infants.
-  - **Gangothri (Ganga) & Sharavathi:** High-capacity multi-storey guest houses with excellent AC deluxe options and Western commodes.
+  - **Gangothri (Ganga) & Sharavathi:** Modern multi-storey guest houses with excellent AC deluxe options and Western commodes.
   - **Rajathadri, Saketha & Vaishali:** Clean standard guest houses close to the temple plaza.
 - **Official Booking Portal:**
   - Direct Booking Gateway: **[bookings.shridharmasthala.org](https://bookings.shridharmasthala.org)** (via official website **[sridharmasthala.org](https://sridharmasthala.org)**).
   - *Strict Booking Window:* **Opens exactly 20 days prior** to check-in date and closes 2 days before arrival. (For 12 Nov, booking opens on **23 Oct 2026**).
   - *Spot Counter Backup:* Central Information Centre (near the main temple Mahadwara). Operates 24/7 on a first-come, first-served basis.
 - **Tariffs:** Highly subsidized: Standard (~₹600–₹1,000/night); AC Deluxe (~₹1,500–₹2,200/night).
-- **Strict Regulations Every Family Must Know:**
-  - *24-Hour Rule:* Room checkout is enforced **strictly 24 hours from the exact minute of check-in**.
-  - *Check-in Hours:* Allowed between **07:00 AM and 09:00 PM**. Grace period is 2 hours from your booked time slot.
-  - *Spiritual Decorum:* Absolute dry town (strictly zero alcohol/tobacco). Modest traditional dress required everywhere in public areas.
-- **Baby & Family Comfort Facts:**
-  - *Hygiene:* Highest sanitary standards of any temple town in Karnataka. Clean tiled bathrooms with Western toilets in Netravathi, Ganga, and Rajathadri AC blocks.
-  - *Baby Food:* The world-famous **Annapoorna Annadana Hall** serves unlimited, piping hot steamed rice, mild dal/sambar, rasam, and buttermilk free of charge twice daily — pure, hygienic, and ideal for a 1-year-old and 6-year-old.
-  - *Private Backup Alternative:* **Hotel Vaishali** (private hotel adjacent to KSRTC bus stand) or **Hotel Vasantha Mahal** (Ujire, 9 km away; full-service commercial hotel).
+- **Strict Regulations:** Enforced 24-hour checkout from check-in time; check-in allowed 07:00 AM – 09:00 PM; strict dry town.
+- **Baby & Family Comfort Facts:** Spotless hygiene; world-famous **Annapoorna Annadana Hall** serves unlimited, steaming hot, pure steamed rice, mild dal/sambar, rasam, and buttermilk free of charge twice daily.
+- **Private Backup Alternative:** **Hotel Vaishali** (adjacent to KSRTC bus stand) or **Hotel Vasantha Mahal** (Ujire, 9 km away).
 
 ---
 
@@ -153,8 +202,123 @@ Elevation (m)
 
 ---
 
-## Approach G1 — Direct Kukke Stay (The Western Ghats Foothill Pioneer)
-### ⭐ TOP RECOMMENDATION: 7 Days / 6 Nights (12–18 Nov)
+## Approach H2 — The 2-Base Coastal Sanctuary (Skip Dharmasthala)
+### ⭐ THE ULTIMATE LOW-STRESS VACATION: 7 Days / 6 Nights (12–18 Nov)
+**Nights:** 2 Nights Malpe Beach Resort, 4 Nights Gokarna Beach Resort. (**Only 2 hotel check-ins the entire trip!**)  
+**Key Advantage:** Unpack only TWICE. Visits Kukke Subrahmanya on Day 1. Friday 13 Nov is 100% CAR-FREE in Malpe. Lowest kid fatigue score of all approaches (1.4 / 5)!
+
+```
+====================================================================================================
+ APPROACH H2: DAY-BY-DAY DETAILED TRANSIT, TEMPLE & REST TIMELINE
+====================================================================================================
+
+[DAY 1: THU 12 NOV]  FLIGHT ARRIVAL -> KUKKE SUBRAHMANYA -> MALPE BEACH RESORT (~250 km total)
+----------------------------------------------------------------------------------------------------
+ 06:50 - 08:35 AM : Flight HYD -> IXE (IndiGo 6E 7581, 1 h 45 m non-stop direct)
+ 08:35 - 09:15 AM : Deplane, collect luggage & stroller at aircraft door; meet Innova driver
+ 09:15 - 11:45 AM : Leg 1: Mangalore Airport -> Kukke Subrahmanya via Bantwal [~105 km, 2 h 30 m]
+                    (Kids take mid-morning nap in air-conditioned Innova)
+ 11:45 - 13:30 PM : KUKKE SUBRAHMANYA DARSHAN: Midday special darshan (child priority line)
+                    and sacred temple prasadam lunch on Car Street (Neo Mysore Cafe).
+ 13:45 - 16:45 PM : Leg 2: Scenic drive Kukke -> Malpe Beach via Bantwal & NH66 [~145 km, 3 h].
+                    (Both kids sleep peacefully during post-lunch drive).
+ 17:00 PM         : CHECK-IN: PARADISE ISLE BEACH RESORT, MALPE. Unpack for 2 UNBROKEN NIGHTS!
+ 17:30 - 19:30 PM : Sunset stroll on Malpe white sand right outside your room; relaxed coastal dinner.
+                    [OVERNIGHT BASE 1: MALPE BEACH RESORT (NIGHT 1)]
+
+[DAY 2: FRI 13 NOV]  🏖️ 100% CAR-FREE COASTAL RESORT DAY (ZERO HIGHWAY TRAVEL!)
+----------------------------------------------------------------------------------------------------
+ 07:30 - 10:00 AM : Malpe white sand beach play, shallow waves, building sandcastles with 6yo
+ 10:30 - 12:30 PM : Kids' shallow splash pool at resort, gentle sunbathing, tender coconut water
+ 12:30 - 15:30 PM : Beachfront resort lunch + LONG UNINTERRUPTED AFTERNOON BABY NAP IN AC ROOM
+ 16:00 - 17:30 PM : Short 10-min local drive to Udupi Sri Krishna Matha (Kanakana Kindi child blessings)
+ 17:45 - 19:00 PM : Sunset at Kapu Lighthouse beach; breezy coastal promenade walk
+ 19:30 PM         : Fresh seafood / veg dinner; zero packing bags tonight!
+                    [OVERNIGHT BASE 1: MALPE BEACH RESORT (NIGHT 2)]
+
+[DAY 3: SAT 14 NOV]  SCENIC NH66 NORTH CORRIDOR TO GOKARNA (~180 km, 4 h driving + scenic stops)
+----------------------------------------------------------------------------------------------------
+ 08:30 AM         : Check-out from Malpe after hearty beachfront breakfast
+ 09:30 - 10:30 AM : Maravanthe Beach photo-drive [~52 km, 50 min]. Ocean & River scenic strip.
+ 11:15 - 13:30 PM : Murudeshwar: 123-ft Shiva statue & 18th-floor Raja Gopura lift view! Pure veg lunch.
+ 14:15 - 15:30 PM : Eco Beach Kasarkod & Sharavathi Mangrove Boardwalk [~28 km, 35 min].
+ 16:30 - 18:30 PM : Scenic drive to Gokarna via Mirjan Fort cross [~52 km, 1 h 15 m].
+ 18:45 PM         : Check-in: KUDLE BEACH VIEW RESORT & SPA. Unpack for 4 UNBROKEN NIGHTS!
+                    [OVERNIGHT BASE 2: GOKARNA (NIGHT 1)]
+
+[DAY 4: SUN 15 NOV]  🎂 INFANT 1ST BIRTHDAY REST DAY — 100% ZERO HIGHWAY KM!
+----------------------------------------------------------------------------------------------------
+ 08:00 - 10:30 AM : Gentle Kudle Beach morning walk; stroller on firm sand, toddler shell collecting
+ 11:00 - 15:30 PM : Long resort pool session, relaxed lunch, celebratory baby AC nap
+ 16:30 - 18:30 PM : Sri Mahabaleshwar Temple traditional child blessings & Kotitirtha sacred lake
+ 19:00 - 21:00 PM : 1st Birthday cake cutting on private resort garden sit-out! Celebratory dinner.
+                    [OVERNIGHT BASE 2: GOKARNA (NIGHT 2)]
+
+[DAY 5: MON 16 NOV]  LOCAL GOKARNA EXPLORATION (~30 km local)
+----------------------------------------------------------------------------------------------------
+ 08:00 - 10:30 AM : Om Beach coves & Namaste Cafe breakfast; afternoon resort rest
+ 15:30 - 17:30 PM : Mirjan Fort 16th-century green lawns (100% stroller-friendly)
+                    [OVERNIGHT BASE 2: GOKARNA (NIGHT 3)]
+
+[DAY 6: TUE 17 NOV]  LEISURE BUFFER DAY (~0-50 km local)
+----------------------------------------------------------------------------------------------------
+ Full relaxed day: Kudle beach shacks, pool splash, or optional morning Yana Caves karst trip.
+                    [OVERNIGHT BASE 2: GOKARNA (NIGHT 4)]
+
+[DAY 7: WED 18 NOV]  ARBAIL GHAT & EVENING DIRECT FLIGHT EXIT (~155 km, 3.5 h driving)
+----------------------------------------------------------------------------------------------------
+ 13:00 PM         : Relaxed check-out from Kudle Beach View Resort
+ 13:15 - 15:15 PM : Daylight ascent via NH63 Arbail Ghat: Ankola -> Yellapur [~85 km, 2 h]
+ 15:15 - 16:00 PM : Feeding & coffee stop at Banana County Resort / Highway Comfort, Yellapur
+ 16:00 - 17:30 PM : Scenic plateau drive: Yellapur -> Hubli Airport (HBX) [~70 km, 1.5 h]
+ 17:30 - 21:25 PM : Stress-free check-in at calm Hubli Airport; dinner in terminal
+ 21:25 - 22:55 PM : Flight HBX -> HYD (Fly91 IC 3402, 1 h 30 m non-stop direct)
+ 23:45 PM         : Home in Hyderabad!
+====================================================================================================
+```
+
+---
+
+## Approach H1 — Kukke-Only Foothill Pioneer (Skip Dharmasthala)
+### ⭐ FAST-TRACK TO MALPE BEACH: 7 Days / 6 Nights (12–18 Nov)
+**Nights:** 1n Kukke Subrahmanya (Temple Guest House), 1n Malpe Beach, 4n Gokarna.  
+**Key Advantage:** Evening puja at Kukke + Friday driving reduced to just **130 km**, reaching Malpe Beach by **14:30 PM**!
+
+```
+====================================================================================================
+ APPROACH H1: DAY-BY-DAY DETAILED TRANSIT, TEMPLE & REST TIMELINE
+====================================================================================================
+
+[DAY 1: THU 12 NOV]  FLIGHT ARRIVAL & DIRECT INLAND DRIVE (~105 km, 2.5 h driving)
+----------------------------------------------------------------------------------------------------
+ 06:50 - 08:35 AM : Flight HYD -> IXE (IndiGo 6E 7581, 1 h 45 m non-stop direct)
+ 09:15 - 12:15 PM : Scenic drive IXE -> Kukke Subrahmanya via Bantwal & Uppinangady [~105 km, 2.5 h]
+ 12:30 PM         : Check-in: KUKKE TEMPLE GUEST HOUSE (Ashlesha / Biladwara AC Deluxe) or SLR Residency
+ 13:00 - 16:00 PM : Fresh vegetarian lunch + DEEP 3-HOUR AFTERNOON BABY REST & NAP
+ 16:30 - 18:45 PM : COOL EVENING KUKKE DARSHAN: Experience lit oil lamps, evening Deeparadhana with zero
+                    midday heat! Child blessings at Lord Subrahmanya sanctum.
+ 19:30 - 20:30 PM : Dinner on Car Street (Neo Mysore Cafe); sleep early in cool mountain air.
+                    [OVERNIGHT BASE 1: KUKKE SUBRAHMANYA]
+
+[DAY 2: FRI 13 NOV]  LEISURELY INLAND DRIVE TO MALPE BEACH (ONLY ~130 km driving!)
+----------------------------------------------------------------------------------------------------
+ 08:00 - 09:00 AM : Fresh idli breakfast on Car Street; leisurely checkout
+ 09:00 - 11:30 AM : Hop 1: Scenic drive Kukke -> Moodbidri -> Karkala [~92 km, 2 h 15 m]
+ 11:30 - 13:00 PM : Visit Moodbidri Thousand Pillar Temple or Karkala Gommateshwara; pure veg lunch.
+ 13:45 - 14:30 PM : Hop 2: Smooth drive Karkala -> Malpe Beach [~38 km, 45 min].
+ 14:30 PM         : EARLY CHECK-IN AT PARADISE ISLE BEACH RESORT, MALPE!
+ 14:30 - 19:00 PM : 4.5 HOURS OF GLORIOUS BEACH TIME: Kids splash in resort pool, build sandcastles,
+                    parents relax under beach cabanas, and enjoy unhurried Kapu lighthouse sunset!
+                    [OVERNIGHT BASE 2: MALPE / UDUPI]
+
+[DAYS 3-7: 14-18 NOV]  Identical to Approach H2 (Linear NH66 north to Gokarna, Sunday 15 Nov zero-highway birthday rest in Gokarna, and Fly91 exit via Hubli HBX).
+====================================================================================================
+```
+
+---
+
+## Approach G1 — Direct Kukke Stay (Both Temples: Kukke + Dharmasthala)
+### 7 Days / 6 Nights (12–18 Nov)
 **Nights:** 1n Kukke Subrahmanya, 1n Udupi/Malpe, 4n Gokarna.  
 **Key Advantage:** Slashes Friday driving from 262 km to 156 km! Lets children sleep in cool Western Ghats mountain air.
 
@@ -166,10 +330,7 @@ Elevation (m)
 [DAY 1: THU 12 NOV]  FLIGHT ARRIVAL & DIRECT INLAND DRIVE (~105 km, 2.5-3 h total driving)
 ----------------------------------------------------------------------------------------------------
  06:50 - 08:35 AM : Flight HYD -> IXE (IndiGo 6E 7581, 1 h 45 m non-stop direct)
- 08:35 - 09:15 AM : Deplane, collect luggage & stroller at aircraft door; meet Innova driver
- 09:15 - 10:15 AM : Quick breakfast at Janatha Deluxe Mangalore bypass; board car onto NH73
- 10:15 - 12:30 PM : Scenic inland drive: Mangalore -> Bantwal -> Uppinangady -> Kukke Subrahmanya
-                    [~105 km, 2 h 15 m] | Kids take morning nap in air-conditioned Innova
+ 09:15 - 12:30 PM : Scenic inland drive: Mangalore -> Bantwal -> Uppinangady -> Kukke Subrahmanya [~105 km]
  12:30 - 13:00 PM : Check-in: KUKKE TEMPLE GUEST HOUSE (Ashlesha / Biladwara AC Deluxe) or SLR Residency
  13:00 - 16:00 PM : Fresh vegetarian lunch on Car Street + DEEP 3-HOUR AFTERNOON BABY REST & NAP
  16:30 - 18:45 PM : UNHURRIED KUKKE SUBRAHMANYA DARSHAN: Cool evening breeze, lit oil lamps,
@@ -191,51 +352,24 @@ Elevation (m)
 
 [DAY 3: SAT 14 NOV]  SCENIC NH66 NORTH CORRIDOR TO GOKARNA (~180 km, 4 h driving + scenic stops)
 ----------------------------------------------------------------------------------------------------
- 07:00 - 08:30 AM : Malpe beach morning splash & breakfast
- 08:45 - 10:15 AM : Udupi Sri Krishna Matha (Kanakana Kindi darshan & Annadana blessings)
- 10:30 - 11:30 AM : Drive Udupi -> Maravanthe Beach [~52 km, 50 min]. Sea & River corridor photos.
- 11:45 - 12:45 PM : Drive Maravanthe -> Murudeshwar [~55 km, 50 min].
- 12:45 - 14:45 PM : Murudeshwar Temple, 123-ft Shiva statue & 18th-floor Raja Gopura elevator view!
- 15:00 - 15:45 PM : Drive Murudeshwar -> Eco Beach Kasarkod & Mangrove Boardwalk [~28 km, 35 min].
- 16:45 - 18:30 PM : Final coastal leg to Gokarna via Mirjan Fort cross [~52 km, 1 h 15 m].
+ 07:00 - 10:15 AM : Malpe beach morning splash + Udupi Sri Krishna Matha darshan
+ 10:30 - 18:30 PM : Maravanthe Beach -> Murudeshwar Temple & Lift -> Eco Beach Kasarkod -> Gokarna
  18:45 PM         : Check-in: KUDLE BEACH VIEW RESORT & SPA. Unpack for 4 unbroken nights!
                     [OVERNIGHT BASE 3: GOKARNA (NIGHT 1)]
 
 [DAY 4: SUN 15 NOV]  🎂 INFANT 1ST BIRTHDAY REST DAY — 100% ZERO HIGHWAY KM!
 ----------------------------------------------------------------------------------------------------
- 08:00 - 10:30 AM : Gentle Kudle Beach morning walk; stroller on firm sand, toddler shell collecting
- 11:00 - 15:30 PM : Long resort pool session, relaxed lunch, celebratory baby AC nap
- 16:30 - 18:30 PM : Sri Mahabaleshwar Temple traditional child blessings & Kotitirtha sacred lake
- 19:00 - 21:00 PM : 1st Birthday cake cutting on private resort garden sit-out! Celebratory dinner.
+ Kudle Beach morning walk, resort pool splash, baby nap, Mahabaleshwar Temple child blessings, garden cake!
                     [OVERNIGHT BASE 3: GOKARNA (NIGHT 2)]
 
-[DAY 5: MON 16 NOV]  LOCAL GOKARNA EXPLORATION (~30 km local)
-----------------------------------------------------------------------------------------------------
- 08:00 - 10:30 AM : Om Beach coves & Namaste Cafe breakfast; afternoon resort rest
- 15:30 - 17:30 PM : Mirjan Fort 16th-century green lawns (100% stroller-friendly)
-                    [OVERNIGHT BASE 3: GOKARNA (NIGHT 3)]
-
-[DAY 6: TUE 17 NOV]  LEISURE BUFFER DAY (~0-50 km local)
-----------------------------------------------------------------------------------------------------
- Full relaxed day: Kudle beach shacks, pool splash, or optional morning Yana Caves karst trip.
-                    [OVERNIGHT BASE 3: GOKARNA (NIGHT 4)]
-
-[DAY 7: WED 18 NOV]  ARBAIL GHAT & EVENING DIRECT FLIGHT EXIT (~155 km, 3.5 h driving)
-----------------------------------------------------------------------------------------------------
- 13:00 PM         : Relaxed check-out from Kudle Beach View Resort
- 13:15 - 15:15 PM : Daylight ascent via NH63 Arbail Ghat: Ankola -> Yellapur [~85 km, 2 h]
- 15:15 - 16:00 PM : Feeding & coffee stop at Banana County Resort / Highway Comfort, Yellapur
- 16:00 - 17:30 PM : Scenic plateau drive: Yellapur -> Hubli Airport (HBX) [~70 km, 1.5 h]
- 17:30 - 21:25 PM : Stress-free check-in at calm Hubli Airport; dinner in terminal
- 21:25 - 22:55 PM : Flight HBX -> HYD (Fly91 IC 3402, 1 h 30 m non-stop direct)
- 23:45 PM         : Home in Hyderabad!
+[DAYS 5-7: 16-18 NOV]  Local Gokarna beaches, Mirjan Fort, Yana buffer, daylight Arbail Ghat exit to HBX.
 ====================================================================================================
 ```
 
 ---
 
-## Approach G2 — Direct Kukke Darshan + Dharmasthala Stay (The Temple Town Immersion)
-### ⭐ SUPER-GENTLE FRIDAY: 7 Days / 6 Nights (12–18 Nov)
+## Approach G2 — Direct Kukke Darshan + Dharmasthala Stay (Both Temples)
+### 7 Days / 6 Nights (12–18 Nov)
 **Nights:** 1n Dharmasthala, 1n Udupi/Malpe, 4n Gokarna.  
 **Key Advantage:** Friday driving is capped to **ONLY 102 km**! Kids get 3.5 hours on Malpe Beach on Friday afternoon.
 
@@ -270,19 +404,7 @@ Elevation (m)
                     and sunset at Kapu Lighthouse without any driving exhaustion!
                     [OVERNIGHT BASE 2: MALPE / UDUPI]
 
-[DAY 3: SAT 14 NOV]  SCENIC NH66 NORTH CORRIDOR TO GOKARNA (~180 km, 4 h driving + scenic stops)
-----------------------------------------------------------------------------------------------------
- 07:00 - 10:15 AM : Malpe morning + Sri Krishna Matha darshan
- 10:30 - 18:30 PM : Maravanthe Beach -> Murudeshwar -> Eco Beach Kasarkod -> Gokarna
- 18:45 PM         : Check-in: KUDLE BEACH VIEW RESORT & SPA. Unpack for 4 unbroken nights!
-                    [OVERNIGHT BASE 3: GOKARNA (NIGHT 1)]
-
-[DAY 4: SUN 15 NOV]  🎂 INFANT 1ST BIRTHDAY REST DAY — 100% ZERO HIGHWAY KM!
-----------------------------------------------------------------------------------------------------
- Zero highway driving! Beach sand play, pool splash, Mahabaleshwar blessings, private garden cake.
-                    [OVERNIGHT BASE 3: GOKARNA (NIGHT 2)]
-
-[DAYS 5-7: 16-18 NOV]  Identical to Approach G1 (Gokarna beaches, Mirjan Fort, Fly91 exit via Hubli HBX).
+[DAYS 3-7: 14-18 NOV]  Identical to Approach G1 (Linear NH66 north, Sunday 15 Nov zero-highway birthday rest in Gokarna, and Fly91 exit via Hubli HBX).
 ====================================================================================================
 ```
 
@@ -476,8 +598,10 @@ Elevation (m)
 Intensity: [.] <50 km (local)   [-] 50-120 km (easy)   [=] 120-180 km (moderate)   [#] >200 km (FLAG!)
 
 Day:          Thu 12    Fri 13    Sat 14    Sun 15    Mon 16    Tue 17    Wed 18   Total Kid Stress
+Approach H2:   [###]     [.]       [=]       [.]       [.]       [.]       [=]     1.4 / 5 (LOWEST OF ALL!)
+Approach H1:   [-]       [=]       [=]       [.]       [.]       [.]       [=]     1.6 / 5 (Very Low!)
+Approach G2:   [=]       [-]       [=]       [.]       [.]       [.]       [=]     1.7 / 5 (Very Low!)
 Approach G1:   [-]       [=]       [=]       [.]       [.]       [.]       [=]     1.8 / 5 (Very Low!)
-Approach G2:   [=]       [-]       [=]       [.]       [.]       [.]       [=]     1.7 / 5 (Lowest 7-day!)
 Approach A:    [-]       [###]     [==]      [.]       [.]       [.]       [==]    2.5 / 5 (Hard Friday)
 Approach B:    [-]       [###]     [==]      [.]       [.]       [==]      ----    3.0 / 5 (Tight return)
 Approach C1:   [-]       [-]       [==]      [.]       [.]       [.]       [==]    1.8 / 5 (Gentle 8-day)
@@ -491,11 +615,10 @@ Approach F:    [-]       [###]     [-]       [-]       [.]       [.]       [==] 
 
 ## Summary & Recommendations: How to Choose
 
-1. **If you want the gentlest 7-day trip without Friday exhaustion (Recommended):**
-   - Choose **Approach G1** (Sleep Kukke on Thursday) or **Approach G2** (Sleep Dharmasthala on Thursday). You bypass Mangalore city traffic on arrival, check in near the temples before midday, and slash Friday driving down to 102–156 km!
-   - *Between G1 and G2:* Choose **G1** if you want to attend the cool evening Deeparadhana at Kukke. Choose **G2** if you want Friday driving to be virtually effortless (102 km) so the kids can spend 3.5 hours on Malpe Beach on Friday afternoon.
-2. **If you prefer 3-star city hotel luxury on Night 1:**
-   - Choose **Approach A**. You enjoy The Ocean Pearl in Mangalore and Tannirbhavi Beach on Thursday, but prepare the kids for an intense ~262 km temple marathon on Friday.
-3. **If you can add Wednesday 11 Nov (8 Days):**
-   - Choose **Approach C2** for the ultimate beach holiday (completely car-free Friday in Malpe) or **Approach C1** for a dedicated temple focus.
+1. **If you want the absolute easiest, most relaxing holiday for your infant & 6yo (Top Pick):**
+   - Choose **Approach H2 (The 2-Base Coastal Sanctuary)**. You visit Kukke Subrahmanya on Thursday, bypass Dharmasthala, and check into Paradise Isle Beach Resort in Malpe for 2 unbroken nights. Friday becomes a **100% car-free beach holiday** for your kids, you unpack your luggage only TWICE the entire week, and the 1st birthday in Gokarna is completely protected!
+2. **If you want an authentic mountain temple night at Kukke without Friday rush:**
+   - Choose **Approach H1**. You sleep at Kukke on Thursday, skip Dharmasthala, and arrive at Malpe Beach by 14:30 PM on Friday for 4.5 hours of afternoon beach play!
+3. **If visiting BOTH Kukke and Dharmasthala is an absolute non-negotiable spiritual requirement:**
+   - Choose **Approach G2** (Sleep Dharmasthala) or **Approach G1** (Sleep Kukke). Both eliminate the brutal Friday morning haul from Mangalore.
 4. **Never choose Approach D:** Spending your infant's 1st birthday inside an Innova on NH66 will turn what should be a magical celebration into a stressful chore.
