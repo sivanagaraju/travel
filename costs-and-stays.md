@@ -58,8 +58,8 @@ Domestic fare structure rules applied:
 - **1 Infant (turning 1 on 15 Nov)**: Flat domestic infant lap fee (no separate seat; sits on parent's lap).
 
 Live pricing tiers verified on **IndiGo official booking portal for Thu 12 Nov 2026 (Flight 6E 7581)**:
-- **Saver Fare:** **₹8,331** / seat (Includes 7 kg cabin bag + 15 kg check-in luggage allowance).
-- **Lite Fare:** **₹8,278** / seat (Cabin bag only; strictly unsuited for families with luggage).
+- **Saver Fare:** **₹8,331** / seat (Includes 7 kg cabin bag + 15 kg check-in luggage allowance). ⭐ **MANDATORY PICK FOR FAMILIES.**
+- **Lite Fare:** **₹8,278** / seat (Cabin bag only). *Note on "Removing Check-in Baggage":* The discount is a negligible **₹53 per ticket** (~₹159 total for 3 seats). More importantly, **IndiGo's official rules strictly prohibit infant bookings on Lite Fares**, and bringing any checked bag to the airport incurs a ₹1,500 gate penalty!
 - **Flexi Plus Fare:** **₹9,201** / seat (Includes 15 kg luggage + complimentary standard seat selection + complimentary inflight snack).
 - **IndiGo UpFront:** **₹9,801** / seat (Includes 20 kg luggage + Front two-row seats + complimentary snack).
 
@@ -143,14 +143,14 @@ The Ocean Pearl                Paradise Isle Beach Resort          Kudle Beach V
 
 ### Verified Hotel Properties Comparison
 
-| Base Town | Recommended Property | Nightly Rate | Infant & Family Suitability | Backup Property |
-|---|---|---|---|---|
-| **Mangalore** (1 night) | **The Ocean Pearl** (Kodialbail) | ₹5,500–₹7,500 | 3-star standard; immaculate cleanliness; baby cots provided free on request; 25 min from IXE airport. | Ginger Hotel / Avatar Hotel |
-| **Malpe / Udupi** (1–2 nights) | **Paradise Isle Beach Resort** (Malpe) | ₹6,500–₹9,000 | **Direct sand access.** Step out to the beach without loading cars; kids' splash pool; paved Sea Walk promenade. | Samanvay Boutique Hotel (city) |
-| **Gokarna** (3–4 nights) | **Kudle Beach View Resort & Spa** | ₹5,500–₹8,500 | **The 1st Birthday Base:** Private garden sit-out for cutting cake; large swimming pool; peaceful green lawn; direct Innova parking. | Gokarna International Beach Resort |
-| **Kukke Subrahmanya** (G1 & C1) | **Ashlesha / Biladwara AC Deluxe** (Temple Trust) | ₹1,800–₹2,500 | Official Karnataka Muzrai guest house (`karnatakatemplesaccommodation.com`). Western toilets in AC Deluxe; elevators; 200m from temple. | **SLR Residency** (private 3-star, ₹3,200) / Hotel Sheshachala |
-| **Dharmasthala** (G2 & D) | **Netravathi / Ganga AC Deluxe** (SDM Trust) | ₹1,500–₹2,200 | Official SDM Trust guest house (`bookings.shridharmasthala.org`, opens 20d prior). Spotless hygiene; Western toilets; strict 24-hr checkout. | **Hotel Vaishali** (private hotel near bus stand) / Vasantha Mahal |
-| **Murudeshwar** (F only) | **Naveen Beach Resort** | ₹2,500–₹4,200 | Seafront property overlooking the bay; quiet rooms away from noisy bus stand; safe multi-cuisine food. | RNS Residency (Sea View wing) |
+| Base Town | Recommended Property | Check-in / Out | Nightly Rate | Infant & Family Suitability | Backup Property |
+|---|---|---|---|---|---|
+| **Mangalore** (1 night) | **The Ocean Pearl** (Kodialbail) | 12:00 PM / 11:00 AM | ₹5,500–₹7,500 | 3-star standard; immaculate cleanliness; baby cots provided free on request; 25 min from IXE airport. | Ginger Hotel / Avatar Hotel |
+| **Malpe / Udupi** (1–2 nights) | **Paradise Isle Beach Resort** (Malpe) | 13:00 PM / 11:00 AM | ₹6,500–₹9,000 | **Direct sand access.** Step out to the beach without loading cars; kids' splash pool; paved Sea Walk promenade. Early check-in available on request for midday arrivals. | Samanvay Boutique Hotel (city, 12:00 PM check-in) |
+| **Gokarna** (2–4 nights) | **Kudle Beach View Resort & Spa** | 13:00 PM / 11:00 AM | ₹5,500–₹8,500 | **The 1st Birthday Base:** Private garden sit-out for cutting cake; large swimming pool; direct Innova parking. *Departure Day Strategy:* Request complimentary late check-out till 13:00 or book half-day extension (~₹2,500) for baby AC nap before Hubli drive. | Stone Wood Nature Resort / Gokarna International |
+| **Kukke Subrahmanya** (G1 & C1) | **Ashlesha / Biladwara AC Deluxe** (Temple Trust) | 24-hr cycle | ₹1,800–₹2,500 | Official Karnataka Muzrai guest house (`karnatakatemplesaccommodation.com`). Western toilets in AC Deluxe; elevators; 200m from temple. | **SLR Residency** (private 3-star, ₹3,200) / Hotel Sheshachala |
+| **Dharmasthala** (G2 & D) | **Netravathi / Ganga AC Deluxe** (SDM Trust) | 24-hr cycle | ₹1,500–₹2,200 | Official SDM Trust guest house (`bookings.shridharmasthala.org`, opens 20d prior). Spotless hygiene; Western toilets; strict 24-hr checkout. | **Hotel Vaishali** (private hotel near bus stand) / Vasantha Mahal |
+| **Murudeshwar** (F only) | **Naveen Beach Resort** | 12:00 PM / 11:00 AM | ₹2,500–₹4,200 | Seafront property overlooking the bay; quiet rooms away from noisy bus stand; safe multi-cuisine food. | RNS Residency (Sea View wing) |
 
 ---
 

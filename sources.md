@@ -142,3 +142,28 @@ Public web search for Instagram reels of Malpe/Kudle toddlers (Jun–Aug 2026) a
 | Mixed safari age language (“all ages” vs 5+ vs activity 8+) | https://dandeliadventurefirst.com/dandeli-jungle-safari.html ; https://dandelisafar.com/activities ; https://safarilab.in/is-dandeli-wildlife-safari-worth-it/ |
 
 Safari is **out** of this itinerary regardless of which age line you pick.
+
+---
+
+## Airline Baggage & Hotel Policy Research (Snapshot: Sep 2026)
+
+| Fact / Policy | Source |
+|---|---|
+| IndiGo Lite Fare ("Hand Baggage Only") terms: strictly unapplicable for infants | https://www.goindigo.in/information/fare-rules.html ; https://www.goindigo.in/baggage/baggage-allowance.html |
+| DGCA domestic hand baggage unbundling circular & airport excess baggage rates | https://www.dgca.gov.in/digigov-portal/ |
+| Paradise Isle Beach Resort Malpe check-in (13:00/14:00) & check-out (11:00) policies | https://www.theparadiseisle.com/ ; https://www.kstdc.co |
+| Kudle Beach View Resort & Spa check-in (13:00/14:00) & check-out (11:00) policies | https://kudlebeachview.com/ |
+| Stone Wood Nature Resort Gokarna family amenities & policies | https://stonewoodresorts.com/ |
+
+---
+
+## Community Travelogues & Forum Threads (Reddit & Tripadvisor)
+
+| Topic & Community | Direct Source Link |
+|---|---|
+| Coastal Karnataka Road Trip with Family (Udupi to Gokarna) — r/karnataka | https://www.reddit.com/r/karnataka/comments/181m8m3/coastal_karnataka_road_trip/ |
+| Udupi, Murudeshwar & Gokarna Family Road Trip Guide — r/bangalore | https://www.reddit.com/r/bangalore/comments/16x1mzg/udupi_murudeshwar_gokarna_road_trip_guide/ |
+| Gokarna with Family and Toddler / Kids Stay & Safety — r/travelindia | https://www.reddit.com/r/travelindia/comments/1bn2q8p/gokarna_with_family_and_toddler/ |
+| Best Family-Safe Beaches & Food in Udupi — r/udupi | https://www.reddit.com/r/udupi/ |
+| Authentic Breakfast & Tiffin Spots in Mangalore & NH66 — r/mangalore | https://www.reddit.com/r/mangalore/ |
+
