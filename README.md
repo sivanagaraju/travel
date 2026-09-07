@@ -2,14 +2,14 @@
 
 Hyderabad family of four (infant turns 1 on **15 Nov 2026** in Gokarna).
 
-**Do not read only one itinerary.** There are **ten distinct architectures (Approaches A through H2)** so you can pick the least-bad tradeoff, including Kukke-only coastal express routes (H1 & H2) that skip Dharmasthala to give kids a 100% car-free beach Friday! The hour-by-hour file is **Approach A + B** only.
+**Primary Master Itinerary:** The main hour-by-hour execution guide in [coastal-karnataka-family-itinerary.md](coastal-karnataka-family-itinerary.md) follows the **Approach H2-Express** blueprint (2 nights Udupi Center near Sri Krishna Temple, St. Mary's Island expedition, 2 nights Gokarna Resort for the 1st Birthday, and return via South Goa Dabolim Airport GOI). Comparative architectures are detailed in [itinerary-approaches.md](itinerary-approaches.md).
 
 | File | What |
 |---|---|
-| [itinerary-approaches.md](itinerary-approaches.md) | **Start here to choose.** Approaches A–H2 compared (nights, kid-load, birthday rest vs transfer, temple stays, Kukke-only) |
-| [costs-and-stays.md](costs-and-stays.md) | Family total + **one hotel pick per town** (3-star / beach-side) |
-| [places/README.md](places/README.md) | Stops **grouped by town** (Mangalore, Udupi, Gokarna, …) — pleasant, peace, kids |
-| [coastal-karnataka-family-itinerary.md](coastal-karnataka-family-itinerary.md) | Approach **A** 7-day + **B** 6-day: km, times, stays, food, calm-vs-crowded, booking checklist |
+| [itinerary-approaches.md](itinerary-approaches.md) | **Start here to compare.** Approaches A–H2 compared (nights, kid-load, birthday rest vs transfer, temple stays, St. Mary's options) |
+| [costs-and-stays.md](costs-and-stays.md) | Family flight & cab costs, verified Udupi Center & Gokarna resort stays, budget breakdowns |
+| [places/README.md](places/README.md) | Stops **grouped by town** (Mangalore, Udupi, Gokarna, South Goa, …) — pleasant, peace, kids |
+| [coastal-karnataka-family-itinerary.md](coastal-karnataka-family-itinerary.md) | **Master Plan:** Approach H2-Express with St. Mary's Island, Udupi Center base, 2-day Gokarna resort, & South Goa exit |
 | [sources.md](sources.md) | Live URLs / handles, snapshot 5 Sep 2026 |
 | [research-log.md](research-log.md) | Queries, Instagram/Facebook login wall, conflicts resolved |
 | [scripts/validate_itinerary.py](scripts/validate_itinerary.py) | Structural check of itinerary, approaches, places, and costs |

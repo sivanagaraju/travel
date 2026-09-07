@@ -106,9 +106,19 @@ The soul of the journey and multi-night relaxation base where the infant turns 1
 
 ---
 
-## 7. Hubli Gateway & Transit Corridor — [hubli/](hubli/)
+## 7. South Goa Return Gateway & Coastal Corridor — [goa/](goa/)
 
-Exit gateway for Approaches A, B, C, D, and F via Hubli Airport (HBX).
+**Premier Recommended Return Exit Gateway** back to Hyderabad via Goa Dabolim Airport (GOI). 100% flat coastal 4-lane NH66 driving with zero steep ghats, lower airfares, and full-size commercial jets (A320/B737).
+
+| Stop | File | Key Feature |
+|---|---|---|
+| **Goa Dabolim Airport & Coastal Corridor** | [goa/goa-dabolim-airport.md](goa/goa-dabolim-airport.md) | ~140 km coastal drive via Karwar, Pollem border, aerobridge boarding, direct flights to HYD |
+
+---
+
+## 8. Hubli Gateway & Transit Corridor — [hubli/](hubli/)
+
+Legacy/alternative exit gateway via Hubli Airport (HBX).
 
 | Stop | File | Key Feature |
 |---|---|---|
@@ -116,7 +126,7 @@ Exit gateway for Approaches A, B, C, D, and F via Hubli Airport (HBX).
 
 ---
 
-## 8. Optional Excursions (Off 7-Day Calendar) — [optional/](optional/)
+## 9. Optional Excursions (Off 7-Day Calendar) — [optional/](optional/)
 
 | Destination | File | Family Verdict for 1yo & 6yo |
 |---|---|---|
