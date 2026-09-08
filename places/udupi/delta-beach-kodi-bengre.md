@@ -1,8 +1,8 @@
 # Delta Beach (Kodi Bengre Estuary), Udupi
 
 **Circuit role:** Optional **peaceful offbeat sunset & estuary peninsula** (where the Suvarna River merges into the Arabian Sea).  
-**When to visit:** Approach C2 (Udupi 2-night base): **Fri 13 Nov 16:30–18:00**.  
-**Location:** Kodi Bengre peninsula, ~9 km north of Malpe Beach (~15 min scenic drive).
+**When to visit:** Approach C2 / H2 (Udupi 2-night base): **Fri 13 Nov 16:30–18:30**.  
+**Location:** Kodi Bengre peninsula, ~9 km north of Malpe Beach (~15 min scenic drive); seamlessly paired with [Kemmannu Hanging Bridge](kemmannu-hanging-bridge.md) located just 7 km east on the Swarna backwaters.
 
 ---
 

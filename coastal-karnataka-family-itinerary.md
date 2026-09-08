@@ -5,7 +5,7 @@
 **Who:** 2 working IT professionals, one 6-year-old child (occupying full seat), and one infant boy turning **1 on Sunday 15 Nov 2026** in Gokarna (infant lap + stroller).**Airports:** Fly **HYD → IXE** (Mangalore) in; **GOI → HYD** (South Goa Dabolim) out!
 
 > **Key Strategic Improvement:** The return route operates via **South Goa (Dabolim - GOI)** rather than Hubli (HBX). Gokarna to Dabolim is ~140 km (~3.2 h) on smooth, flat 4-lane coastal NH66 with **ZERO steep ghat climbs**, commercial jet aircraft (Airbus A320 / Boeing 737) with covered aerobridges, and competitive airfares saving **₹6,000–₹10,000** for the family!
-> **Car:** Dedicated **Toyota Innova Crysta with vetted driver**, Mangalore Airport (IXE) pickup → South Goa Dabolim Airport (GOI) drop, with **rear-facing infant car seat** and pre-cleared Goa commercial interstate entry permit.
+> **Car:** Dedicated **Toyota Innova Crysta with vetted driver**, Mangalore Airport (IXE) pickup → South Goa Dabolim Airport (GOI) drop, with **rear-facing infant car seat** and pre-cleared Goa commercial interstate entry permit. *(See driver-ready briefing & WhatsApp copy in [driver-trip-sheet.md](driver-trip-sheet.md))*
 > **Stays Architecture (Unpack Only Twice):**
 
 - **Base 1: Udupi City Center Hotel near Sri Krishna Temple (2 Nights: Thu 12 & Fri 13 Nov):** [Samanvay Boutique Hotel](https://maps.google.com/?q=Samanvay+Boutique+Hotel+Udupi) / [Hotel Diana](https://maps.google.com/?q=Hotel+Diana+Udupi). Direct walking/auto access to Sri Krishna Matha, Kanakana Kindi, and legendary Mitra Samaj dining; only 12 min drive to Malpe Jetty for St. Mary's Island.
@@ -70,12 +70,26 @@
          v
   [ 13:30 PM - 16:00 PM ]  💤 PROTECTED 2.5-HOUR AC CRIB NAP AT SAMANVAY HOTEL (Essential recovery from morning sun & sea air)
          |
-         |  🚶 16:00 PM - 17:30 PM: Evening stroll to SRI KRISHNA MATHA (Deeparadhana oil lamps, temple chariot, quiet prayer)
-         |  ☕ 17:30 PM - 18:15 PM: Tea, filter coffee & badam milk at Mitra Samaj on Car Street
-         |  🚗 18:30 PM - 19:30 PM: Short 25-min sunset drive south to KAPU BEACH & LIGHTHOUSE (Golden hour photos on sand)
-         |  🍽️ 20:00 PM - 21:15 PM: Traditional Udupi dinner at hotel / Woodlands
+         |  🍼 16:00 PM - 16:30 PM: Refresh, infant bottle feed & tea / filter coffee at hotel
+         |
+         +---> [ SUNSET OPTION 1 (TOP RECOMMENDED: OFFBEAT SECLUDED SHORE & BIOLUMINESCENCE MAGIC) ]
+         |     🚗 16:30 PM - 19:15 PM: Scenic 15-min coastal drive south to MATTU BEACH
+         |     - 16:45 PM - 18:00 PM: Golden hour uncrowded sunset & toddler sand play under coconut groves
+         |     - 18:00 PM - 18:30 PM: Twilight sea breeze & coconut water; Mattu Gulla brinjal farm heritage
+         |     - 18:30 PM - 19:15 PM: Twilight/Night Sea-Sparkle Check (Dark crescent skies for Noctiluca glow)
+         |
+         +---> [ SUNSET OPTION 2 (RIVER-MEETS-SEA & BACKWATER SANCTUARY) ]
+         |     🚗 16:30 PM - 19:00 PM: Drive north to KEMMANNU HANGING BRIDGE & DELTA BEACH (Kodi Bengre)
+         |     - Rustic wooden suspension bridge walk & calm backwaters where Suvarna River meets ocean
+         |
+         +---> [ SUNSET OPTION 3 (CLASSIC HERITAGE) ]
+         |     🚗 16:30 PM - 18:45 PM: Drive south to KAPU BEACH & LIGHTHOUSE (Golden hour photos on sand)
+         |
          v
-  [ 21:30 PM ]  BEDTIME: Restful sleep in Udupi Center; pack day bags for Saturday coastal drive [NIGHT 2 OF 2]
+  [ 19:30 PM - 20:30 PM ]  🛕 EVENING SRI KRISHNA MATHA DARSHAN (Night Deepotsava oil lamps) OR CAR STREET DINNER
+         |                 🍽️ Mitra Samaj (Hot Goli Baje, Masala Dosa) / Woodlands / Ayodhya pure-veg thali
+         v
+  [ 21:00 PM ]  BEDTIME: Restful sleep in Udupi Center; pack day bags for Saturday coastal drive [NIGHT 2 OF 2]
 
 ===========================================================================================================================
   DAY 3: SATURDAY, 14 NOVEMBER 2026  |  SCENIC COASTAL NH66 NORTH CORRIDOR TO GOKARNA RESORT
@@ -86,14 +100,20 @@
          v
   [ 09:45 AM - 10:30 AM ]  📸 MARAVANTHE BEACH CORRIDOR (Arabian Sea on left, Souparnika River on right; 45-min photo stop)
          |
-         |  🚗 ~55 km, 45 min drive north along NH66 via Byndoor
+         |  🚗 ~18 km, 20 min drive north along NH66
          v
-  [ 11:15 AM - 12:30 PM ]  🛕 MURUDESHWAR TEMPLE & SHIVA STATUE (123-ft Shiva, 18-floor high-speed elevator lift for 360° views)
+  [ 10:50 AM - 11:20 AM ]  🌊 OTTINENE SECRET CLIFF-TOP VIEWPOINT (Byndoor Overlook)
+         |                 - Elevated bird's-eye cliff panorama of Byndoor river looping into the ocean
+         |                 - Shaded forest gazebo rest stop with zero crowds; gentle sea breeze for baby
          |
-         |  🍽️ 12:30 PM - 13:30 PM: Panoramic oceanfront lunch at Naveen Beach Restaurant (pure-veg thali, dosas, fresh juice)
+         |  🚗 ~38 km, 35 min drive north along NH66 crossing into Uttara Kannada
+         v
+  [ 11:55 AM - 13:00 PM ]  🛕 MURUDESHWAR TEMPLE & SHIVA STATUE (123-ft Shiva, 18-floor high-speed elevator lift for 360° views)
+         |
+         |  🍽️ 13:00 PM - 14:00 PM: Panoramic oceanfront lunch at Naveen Beach Restaurant (pure-veg thali, dosas, fresh juice)
          |  🚗 ~28 km, 30 min drive north crossing the Sharavathi River bridge into Honnavar
          v
-  [ 14:15 PM - 15:30 PM ]  🌳 ECO BEACH KASARKOD, HONNAVAR (Blue Flag certified park, safe playground for 6yo, clean baby washrooms)
+  [ 14:30 PM - 15:30 PM ]  🌳 ECO BEACH KASARKOD, HONNAVAR (Blue Flag certified park, safe playground for 6yo, clean baby washrooms)
          |
          |  🍼 15:30 PM - 15:45 PM: Afternoon milk bottle feed, diaper change, and tender coconut water under pine trees
          |  🚗 ~52 km, 1 h 15 m drive north via Kumta into Gokarna coast  <=== [15:45 PM - 17:00 PM: BABY AFTERNOON CAR NAP]
@@ -177,9 +197,12 @@ All road times account for an air-conditioned Innova Crysta, child car seat sync
 | **Udupi Center → Sri Krishna Matha**       | ~1.2 km        | **3 min / Walk** | Effortless walking or quick 2-min auto-rickshaw from Samanvay Boutique Hotel.       |
 | **Udupi Center → Malpe Tourist Jetty**     | ~7 km          | **12–15 min**   | Smooth city-to-beach road for Friday morning St. Mary's boat crossing.              |
 | **Malpe Jetty ↔ St. Mary's Island (Boat)** | ~6 km sea      | **20 min**       | Tourist ferry / speedboat. Ergonomic baby carrier mandatory.                        |
-| **Udupi Center → Kapu Lighthouse Beach**   | ~16 km         | **25 min**       | Smooth coastal road south of Udupi for Friday golden hour sunset.                   |
-| **Udupi Center → Maravanthe Beach**        | ~52 km         | **45 min**       | Coastal NH66 North. Panoramic sea–river highway divider.                           |
-| **Maravanthe → Murudeshwar**               | ~55 km         | **45 min**       | 4-lane NH66 North. 18-floor lift and oceanfront lunch.                              |
+| **Udupi Center → Kapu Lighthouse Beach**         | ~16 km         | **25 min**       | Smooth coastal road south of Udupi for Friday golden hour sunset.                   |
+| **Udupi Center → Mattu Beach (Offbeat Sunset)**  | ~10 km         | **15 min**       | Scenic coconut village road south; zero crowds; twilight bioluminescence viewing.   |
+| **Udupi Center → Kemmannu & Delta Beach**        | ~9 km          | **15 min**       | Shaded river road north; suspension bridge & Suvarna estuary confluence.            |
+| **Udupi Center → Maravanthe Beach**              | ~52 km         | **45 min**       | Coastal NH66 North. Panoramic sea–river highway divider.                           |
+| **Maravanthe → Ottinene Cliff Viewpoint**        | ~18 km         | **20 min**       | Coastal NH66 North to Byndoor. Elevated clifftop ocean & estuary overlook.          |
+| **Ottinene Cliff → Murudeshwar**                 | ~38 km         | **35 min**       | 4-lane NH66 North into Uttara Kannada. 18-floor lift and oceanfront lunch.          |
 | **Murudeshwar → Eco Beach Kasarkod**       | ~28 km         | **30 min**       | NH66 North crossing Sharavathi bridge into Honnavar. Blue Flag certified park.      |
 | **Eco Beach → Gokarna Resort**             | ~52 km         | **1 h 15 m**     | NH66 North via Kumta to Gokarna coast. Settle into 2-night resort base.             |
 | **Gokarna Resort → Karwar (Hotel Amrut)**  | ~60 km         | **1 h 15 m**     | Flat 4-lane NH66 North crossing the scenic Kali River bridge. Lunch & feeding halt. |
@@ -225,15 +248,41 @@ All road times account for an air-conditioned Innova Crysta, child car seat sync
 
 ## Day 2 — Friday 13 November 2026
 
-### St. Mary's Island Morning Expedition + AC Crib Nap + Udupi Temple Rituals + Kapu Sunset
+### St. Mary's Island Morning Expedition + AC Crib Nap + Flexible Sunset Choices (Mattu Bioluminescence / Kemmannu & Delta Beach / Kapu Lighthouse)
 
-**Theme:** Morning boat cruise to geological wonder, midday deep AC nap recovery, relaxed temple exploration, and golden hour coastal sunset.
-**Driving:** ~35 km local hops only. No long highway driving!
+**Theme:** Morning boat cruise to geological wonder, midday deep AC nap recovery, followed by your choice of coastal magic—from tranquil bioluminescent shores to swaying backwater bridges or historic lighthouses.
+**Driving:** ~20–35 km local hops only. No long highway driving!
 **Night:** Base 1: Udupi City Center ([Samanvay Boutique Hotel](https://maps.google.com/?q=Samanvay+Boutique+Hotel+Udupi)) — Night 2 of 2.
+
+```
++---------------------------------------------------------------------------------------------------+
+|                        UDUPI COASTAL SUNSET COMPASS & OFFBEAT WATER MAGIC                         |
++---------------------------------------------------------------------------------------------------+
+
+                                 [ NORTH: Estuary & Backwaters (~9 km) ]
+                                 KEMMANNU HANGING BRIDGE & DELTA BEACH (KODI BENGRE)
+                                 - 280-ft wooden suspension bridge swinging over glass-calm Swarna river
+                                 - Country canoe rides among mangrove islands (kudrus); 100% toddler safe
+                                 - Narrow sandspit peninsula where river merges into the Arabian Sea
+                                                        ^
+                                                        | ~15 min
+ [ WEST: Volcanic Marine Reserve (~7 km) ]              |              [ EAST: Sacred Town Center ]
+ MALPE BEACH & ST. MARY'S ISLAND <----------------------+------------> SRI KRISHNA MATHA & CAR STREET
+ - 20-min morning boat crossing                         |              - 13th-century Vaishnavite temple
+ - 60-million-year-old basalt columns                   |              - Mitra Samaj Goli Baje & Filter Coffee
+ - Shell collecting with 6yo child                      |              - Evening Deepotsava oil lamps
+                                                        v ~15 min
+                                 [ SOUTH: Secluded Shores & Twilight Magic (~10-16 km) ]
+                                 MATTU BEACH (15 min / 10 km)  &  KAPU LIGHTHOUSE (25 min / 16 km)
+                                 - Mattu: Prime natural *Noctiluca* bioluminescent sea-sparkle viewing
+                                 - Mattu: Pitch-black skies, 500-yr-old Mattu Gulla brinjal fields
+                                 - Kapu: Historic 1901 stone lighthouse & panoramic sunset sea boulders
++---------------------------------------------------------------------------------------------------+
+```
 
 #### Hour-by-Hour Timeline
 
-- **07:45–08:30 AM**: 🍳 **Buffet Breakfast at Hotel**: Fresh dosas, idlis, boiled eggs, fresh fruit slices (papaya, banana), warm milk. Prepare stainless steel water flasks (single-use plastic is banned on St. Mary's Island).
+- **07:45–08:30 AM**: 🍳 **Buffet Breakfast at Hotel**: Fresh dosas, idlis, boiled eggs, fresh fruit slices (papaya, banana), warm milk. Prepare stainless steel water flasks (single-use plastic is banned on St. Mary's Island).  
   *Mandatory Gear:* Secure infant in ergonomic front chest carrier; put on wide-brim sunhats and non-slip sandals/water shoes.
 - **08:30–08:45 AM**: 12-minute morning drive from Udupi Center to Malpe Tourist Boat Jetty / [Malpe Sea Walk](https://maps.google.com/?q=Malpe+Sea+Walk+Udupi).
 - **08:45–09:15 AM**: ⛵ **Boat Crossing to St. Mary's Island** (~20 min sea crossing):
@@ -247,39 +296,136 @@ All road times account for an air-conditioned Innova Crysta, child car seat sync
 - **11:15–11:45 AM**: Board return boat back to Malpe Beach mainland jetty.
 - **12:00–13:15 PM**: 🍛 **Relaxed Seaside Lunch** at Malpe (Ocean View Cafe / Fisherman's Bay) or central Udupi (steamed rice, mild dal, curd rice, fresh coastal curry).
 - **13:30–16:00 PM**: 💤 **Deep 2.5-Hour AC Crib Nap** at Samanvay Boutique Hotel. Essential recovery from morning island sun and sea breeze.
-- **16:00–17:30 PM**: Leisurely walk to [Sri Krishna Matha, Udupi](https://maps.google.com/?q=Sri+Krishna+Matha+Udupi):
-  - Quiet, uncrowded evening darshan.
-  - Watch the ceremonial temple chariot procession if scheduled.
-  - Browse Car Street for traditional Udupi wooden toys and brass souvenirs.
-- **17:30–18:15 PM**: ☕ **Evening Snack**: Filter coffee, badam milk, and snacks at Mitra Samaj / hotel cafe.
-- **18:30–19:30 PM**: Short 25-minute scenic hop south to [Kapu Beach & Lighthouse](https://maps.google.com/?q=Kapu+Beach+Lighthouse) for golden hour photos on pristine sands (skip climbing the 150 lighthouse steps with the infant).
-- **20:00–21:15 PM**: 🍽️ **Traditional Udupi Dinner** at hotel / Woodlands. Children dressed in cozy pyjamas.
-- **21:30 PM**: Sleep. Pack day bags for Saturday's coastal drive north.
+- **16:00–16:30 PM**: 🍼 **Wakeup & Refresh**: Warm milk bottle for baby, fresh clothes, and hot filter coffee / tea at hotel.
+
+---
+
+#### Choose Your Friday Evening Coastal Experience (16:30–19:15 PM)
+
+Select one of three distinct coastal moods based on family energy:
+
+##### 🌟 Option 1 (Top Recommended): Mattu Beach — Peaceful Sunset & Twilight Bioluminescence Magic
+*~10 km south of Udupi town (~15 min drive via Katapadi junction)*
+
+- **16:45–18:00 PM (Golden Hour Sunset):**
+  - Drive along the paved coastal village road fringed by endless swaying coconut palms and 500-year-old **Mattu Gulla** brinjal fields.
+  - Step straight onto broad, flat golden sand with **zero commercial shacks, zero loud music, and zero speedboats**.
+  - Gentle, shallow waves allow the 1-year-old infant to splash safely at the water's edge while the 6-year-old builds sandcastles.
+- **18:00–18:30 PM (Twilight Calm):**
+  - Enjoy cool onshore sea breezes and fresh tender coconut water as the sun dips below the Arabian Sea horizon.
+- **18:30–19:15 PM (Twilight Sea-Sparkle Check — The Bioluminescence Phenomenon):**
+  - **The Magic:** In winter months, Mattu Beach is Karnataka's premier ground for natural **bioluminescence** caused by blooms of *Noctiluca scintillans* (sea sparkle) glowing electric blue when agitated by breaking waves.
+  - **Optimal Sky Conditions (Nov 13, 2026):** Because the New Moon occurred on November 9, tonight's moon is a faint ~18% waxing crescent that dips below the horizon shortly after sunset, producing **pitch-black night skies**—the essential prerequisite for spotting sea sparkle!
+  - **Natural Unpredictability:** Plankton blooms are a natural living phenomenon. If active, you will witness mesmerizing blue neon flashes in the breaking surf; if not active, you still enjoy one of coastal Karnataka's most serene, starlit shores.
+
+```
++---------------------------------------------------------------------------------------------------+
+|               MATTU BEACH TWILIGHT & BIOLUMINESCENT SEA-SPARKLE OBSERVATION                       |
++---------------------------------------------------------------------------------------------------+
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                ARABIAN SEA (Calm Winter Swell)
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+         *   *   *   *   [ Bioluminescent Breaking Waves ]   *   *   *   *
+         *   *   *   *   *  *  (Noctiluca scintillans glow)  *   *   *   *   *
+        -----------------------------------------------------------------------
+               \                                                       /
+                \   [ WET TIDAL LINE: Glow visible upon footstep ]    /
+                 \                                                   /
+        =======================================================================
+        [ SAFE DRY-SAND FAMILY ZONE ]                                          
+        - Parents, 6yo child & 1yo infant remain safely on firm dry sand       
+        - Zero risk of dark rogue waves or drop-offs                           
+        - Red-tinted / dim torchlight (preserves natural night vision)         
+        =======================================================================
+                                           |
+                                           v
+        [ Natural Screen: Dense Coconut Tree Canopy & Pitch-Dark Village Road ]
+        - Blocks all highway & town glare (Essential for viewing faint blue glow)
+        - Easy parking: Step out of Innova Crysta directly onto beach path
++---------------------------------------------------------------------------------------------------+
+```
+
+> [!IMPORTANT]
+> **Night Bioluminescence Safety Rules for Family:**
+> 1. **Dry Sand Only:** **NEVER wade or swim into the ocean after dark.** Ocean currents cannot be judged in the black water. Stay safely on the firm, dry sand.
+> 2. **Preserve Night Vision:** Allow 10 minutes for your eyes to adjust to the dark; do not shine bright white phone flashlights directly onto the waves.
+> 3. **Local Intelligence:** Ask local fishermen around 17:30 PM if glowing waves have been noticed over the last few nights.
+
+##### 🌿 Option 2: Kemmannu Hanging Bridge & Delta Beach (Kodi Bengre)
+*~9 km north of Udupi town (~15 min drive via Tonse)*
+
+- **16:45–17:30 PM (Kemmannu Suspension Bridge):**
+  - Walk across the 280-ft wooden cable suspension bridge swinging gently over the glass-calm Swarna river backwaters.
+  - Marvel at the emerald mangrove islands (*kudrus*) and watch kingfishers dive. (Keep baby safely in front chest carrier).
+  - Optional 20-min gentle country wooden canoe boat ride through mangrove channels (zero waves, 100% baby safe).
+- **17:45–18:45 PM (Delta Beach Sunset):**
+  - Drive 7 km west along the narrow coconut-lined spit to **Delta Point**, where the Suvarna River gracefully merges into the Arabian Sea.
+  - Pristine, crowd-free estuary sunset; calm river-side sand flats for toddler play.
+
+##### 🏰 Option 3: Classic Kapu Beach & Lighthouse
+*~16 km south of Udupi town (~25 min drive via NH66)*
+
+- **17:00–18:30 PM:**
+  - Marvel at the 1901 British black-and-white stone lighthouse standing atop dramatic granite sea boulders.
+  - Golden hour family portraits on the sandy crescent beach (skip climbing the 150 lighthouse steps with the infant).
+
+---
+
+- **19:30–20:30 PM**: 🛕 **Town Center Return & Dining**:
+  - Return to Udupi town center. Stroll through [Sri Krishna Matha](https://maps.google.com/?q=Sri+Krishna+Matha+Udupi) for peaceful evening oil lamps (*Deeparadhana*), or head directly to dinner.
+  - 🍽️ Hot Goli Baje, Masala Dosa, and filter coffee at [Mitra Samaj](https://maps.google.com/?q=Mitra+Samaj+Udupi) on Car Street / pure-veg thali at hotel *Ayodhya*.
+- **21:00 PM**: Restful bedtime in comfortable AC room. Pack day bags for Saturday's coastal journey north!
 
 ---
 
 ## Day 3 — Saturday 14 November 2026
 
-### Linear Scenic NH66 North Corridor to Gokarna Resort (~180 km)
+### Linear Scenic NH66 North Corridor to Gokarna Resort (~180 km) with Maravanthe, Ottinene Cliff Overlook & Murudeshwar
 
-**Theme:** Spectacular coastal highway drive with the Arabian Sea on your left, 18th-floor elevator view at Murudeshwar, Blue Flag certified park play at Honnavar, and arrival at the 1st Birthday Resort Base.
+**Theme:** Spectacular coastal highway drive with the Arabian Sea on your left, hidden cliff-top vistas at Ottinene, 18th-floor elevator view at Murudeshwar, Blue Flag certified park play at Honnavar, and arrival at the 1st Birthday Resort Base.
 **Driving:** ~180 km total along 4-lane coastal NH66. Linear northbound—**zero backtracking**.
 **Night:** Base 2: Gokarna Resort ([Kudle Beach View Resort & Spa](https://maps.google.com/?q=Kudle+Beach+View+Resort+Gokarna)) — Night 1 of 2.
+
+```
++---------------------------------------------------------------------------------------------------+
+|               THE SCENIC NH66 NORTHBOUND WONDER CORRIDOR (MARAVANTHE TO MURUDESHWAR)              |
++---------------------------------------------------------------------------------------------------+
+
+  [ STOP 1: 09:45 AM - 10:30 AM ]           [ STOP 2: 10:50 AM - 11:20 AM ]       [ STOP 3: 11:55 AM ]
+    MARAVANTHE HIGHWAY DIVIDER                OTTINENE CLIFF-TOP OVERLOOK          MURUDESHWAR PENINSULA
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~            ===============================      ==========================
+  ARABIAN SEA     SOUPARNIKA RIV.             HIGHEST COASTAL CLIFF ON NH66        123-FT COLOSSAL SHIVA
+   (Roaring)       (Glass-Calm)             - Bird's-eye panorama of Byndoor     - 18-floor lift to Raja
+        \              /                      river estuary meeting ocean          Gopura viewing deck
+   ======\============/======    ~18 km     - Shaded forest rest area            - Panoramic sea-view lunch
+     NH66 Four-Lane Highway    --------->   - Gentle cool sea breeze for baby    - Direct coastal Innova
+     [45-min Photo Stop]      (20 min)      [30-min Hidden Gem Halt]    ~38 km     parking
+                                                                       --------->
+                                                                        (35 min)
++---------------------------------------------------------------------------------------------------+
+```
 
 #### Hour-by-Hour Timeline
 
 - **08:00–08:45 AM**: 🍳 Breakfast at Samanvay Boutique Hotel.
 - **08:45 AM**: Effortless check-out. Luggage loaded into Innova.
 - **09:45–10:30 AM**: 📸 [Maravanthe Beach Corridor](https://maps.google.com/?q=Maravanthe+Beach): 45-min photo stop where NH66 runs between the roaring Arabian Sea on the left and the calm Souparnika River on the right.
-- **11:15–12:30 PM**: 🛕 [Murudeshwar Temple & Shiva Statue](https://maps.google.com/?q=Murudeshwar+Temple):
+- **10:30–10:50 AM**: 🚗 Scenic coastal NH66 drive north (~18 km, 20 min) crossing into Byndoor.
+- **10:50–11:20 AM**: 🌊 📸 [Ottinene Secret Cliff-Top Viewpoint (Byndoor Overlook)](https://maps.google.com/?q=Ottinene+Sunset+Point+Byndoor):
+  - **The Discovery:** A dramatic clifftop promontory nestled within a coastal reserve forest, offering an aerial 180° panorama where the Byndoor river gracefully curls through palm valleys into the Arabian Sea.
+  - **Baby Logistics:** 100% flat paved pathway from the car parking right to the shaded forest gazebo. Strollers roll effortlessly, high safety stone/iron railings protect the 6-year-old child, and the dense tree canopy keeps the baby delightfully cool.
+- **11:20–11:55 AM**: 🚗 Scenic coastal highway drive north (~38 km, 35 min) crossing into Uttara Kannada district to Murudeshwar.
+- **11:55–13:00 PM**: 🛕 [Murudeshwar Temple & Shiva Statue](https://maps.google.com/?q=Murudeshwar+Temple):
   - Gaze up at the world's 2nd tallest Shiva statue (123 ft).
   - Take the high-speed elevator to the 18th floor of the Raja Gopura for 360-degree ocean panoramas.
   - Quick sanctum darshan (avoiding midday crowd).
-- **12:30–13:30 PM**: 🍛 **Panoramic Oceanview Lunch at Naveen Beach Restaurant**, Murudeshwar: Pure vegetarian South Indian thali, curd rice, dosas, fresh lime juice overlooking the sea.
-- **14:15–15:30 PM**: 🌳 [Eco Beach Kasarkod (Honnavar)](https://maps.google.com/?q=Eco+Beach+Kasarkod+Honnavar):
+- **13:00–14:00 PM**: 🍛 **Panoramic Oceanview Lunch at Naveen Beach Restaurant**, Murudeshwar: Pure vegetarian South Indian thali, curd rice, dosas, fresh lime juice overlooking the sea.
+- **14:00–14:30 PM**: 🚗 Short 30-min drive (~28 km) crossing the grand Sharavathi River bridge into Honnavar.
+- **14:30–15:30 PM**: 🌳 [Eco Beach Kasarkod (Honnavar)](https://maps.google.com/?q=Eco+Beach+Kasarkod+Honnavar):
   - Blue Flag certified eco-park with manicured lawns, pine trees, and safe wooden playground for 6yo.
   - Spotless baby diaper changing washrooms with running water.
   - Afternoon baby milk feed and tender coconut water under cool shade.
+- **15:30–15:45 PM**: 🍼 Afternoon milk bottle feed, diaper change, and stroller pack-up.
 - **15:45–17:30 PM**: Smooth coastal drive past Kumta into Gokarna [~52 km, 1 h 15 m]. Children nap in AC car.
 - **17:45 PM**: **Check-in at Kudle Beach View Resort & Spa / Stone Wood Nature Resort**, Gokarna. Rooms 100% ready!
 - **18:15–19:15 PM**: Settle into cottage; dip feet in resort swimming pool with 6yo; watch the sunset over Kudle Beach.
@@ -411,10 +557,13 @@ If parents prefer an extra recovery day in Gokarna:
 | **Udupi Sri Krishna Matha**         | **Thu 12 Nov (evening) & Fri 13 Nov** | 2-min stroll from hotel; Kanakana Kindi & elephant feeding    |
 | **Mitra Samaj Dining**              | **Thu 12 Nov (dinner) & Fri 13 Nov**  | Legendary Car Street Goli Baje, Masala Dosa, filter coffee    |
 | **St. Mary's Island**               | **Fri 13 Nov, 08:45–11:30 AM**       | 20-min boat from Malpe; basalt columns & shell collecting     |
-| **Kapu Lighthouse Beach**           | **Fri 13 Nov, 18:30–19:30 PM**       | Serene sunset photos on golden sand                           |
+| **Mattu Beach & Bioluminescence**   | **Fri 13 Nov, 16:30–19:15 PM (Opt 1)** | Uncrowded golden sand sunset & twilight sea-sparkle check     |
+| **Kemmannu & Delta Beach**          | **Fri 13 Nov, 16:30–19:00 PM (Opt 2)** | Suspension bridge walk, calm mangrove backwaters & estuary    |
+| **Kapu Lighthouse Beach**           | **Fri 13 Nov, 17:00–18:30 PM (Opt 3)** | 1901 stone lighthouse & sunset granite boulders               |
 | **Maravanthe Beach Corridor**       | **Sat 14 Nov, 09:45–10:30 AM**       | Panoramic NH66 sea on left, river on right stop               |
-| **Murudeshwar Shiva Statue**        | **Sat 14 Nov, 11:15–12:30 PM**       | 18th-floor Raja Gopura lift & oceanfront Naveen lunch         |
-| **Eco Beach Kasarkod (Honnavar)**   | **Sat 14 Nov, 14:15–15:30 PM**       | Blue Flag eco-park; toddler playground & clean baby washrooms |
+| **Ottinene Cliff-Top Viewpoint**    | **Sat 14 Nov, 10:50–11:20 AM**       | Secret aerial cliff panorama of Byndoor river mouth & ocean   |
+| **Murudeshwar Shiva Statue**        | **Sat 14 Nov, 11:55–13:00 PM**       | 18th-floor Raja Gopura lift & oceanfront Naveen lunch         |
+| **Eco Beach Kasarkod (Honnavar)**   | **Sat 14 Nov, 14:30–15:30 PM**       | Blue Flag eco-park; toddler playground & clean baby washrooms |
 | **Kudle Beach & Resort Pool**       | **Sun 15 Nov, 09:15–12:15 PM**       | Relaxed birthday morning sand & pool splash                   |
 | **Gokarna Mahabaleshwar Temple**    | **Sun 15 Nov, 17:00–18:30 PM**       | Sacred Atmalinga 1st birthday archana & Kotitirtha walk       |
 | **1st Birthday Cake & Gala Dinner** | **Sun 15 Nov, 19:00–21:30 PM**       | Private resort lawn cake cutting with fairy lights            |

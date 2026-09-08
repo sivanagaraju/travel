@@ -51,16 +51,17 @@ Udupi is the central anchor of the coastal Karnataka route, combining the 13th-c
 
 ---
 
-## Udupi Places Directory: All 9 Destinations
+## Udupi Places Directory: All 10 Destinations
 
 | Place & Direct Guide Link | Category | Priority | Recommended Window | Baby Suitability & Highlights |
 |---|---|---|---|---|
 | [Sri Krishna Matha](udupi-sri-krishna-matha.md) | Pilgrimage | **Must-Cover** | 06:30–08:30 or 18:00–19:30 | Carrier Only (Navagraha Kindi, Annadana blessings) |
 | [Malpe Beach & Sea Walk](malpe-beach.md) | Family Beach | **Must-Cover** | 07:00–09:30 (Morning) | **Stroller on Sea Walk** (White sand, Paradise Isle base) |
 | [Kapu Lighthouse Beach](kapu-lighthouse-beach.md) | Scenic Coast | **Must-Cover** | 09:45–10:45 or 16:30–18:00 | Carrier Only (1901 lighthouse, sunset boulders) |
-| [Mattu Beach](mattu-beach.md) | Secluded Coast | **Top Family Pick** | 16:30–18:30 (Sunset) | **Stroller on coastal road** (Quiet sand, zero boat noise) |
+| [Mattu Beach](mattu-beach.md) | Secluded Coast & Magic | **Top Family Pick** | 16:30–19:15 (Sunset/Dusk) | **Stroller on coastal road** (Quiet sand, Mattu Gulla heritage, twilight *Noctiluca* sea sparkle) |
+| [Kemmannu Hanging Bridge](kemmannu-hanging-bridge.md) | River Backwaters | **Top Offbeat Gem** | 16:30–18:00 | Carrier Only (280-ft wooden suspension bridge, calm canoe rides) |
+| [Delta Beach (Kodi Bengre)](delta-beach-kodi-bengre.md)| Estuary | Optional (App C2/H2)| 16:30–18:30 | Carrier Recommended (Suvarna river meets ocean spit) |
 | [Varanga Lake Jain Temple](varanga-lake-jain-temple.md)| Water Temple | **Heritage Wonder** | 10:30–12:30 | Carrier for boat ride (Feed turtles in lotus lake!) |
 | [Maravanthe Beach (Amarvante)](maravanthe-beach.md)| Highway Vista | **Must-Cover** | 11:30–12:30 (20-min halt) | View from car bay (Sea on left, River on right) |
 | [Anegudde Sri Vinayaka](anegudde-vinayaka.md) | Highway Shrine | Highly Recommended | Sat 14 Nov 11:15–11:45 | **Wheelchair/Stroller Ramp** (Direct on NH66) |
-| [Delta Beach (Kodi Bengre)](delta-beach-kodi-bengre.md)| Estuary | Optional (App C2/H2)| 16:30–18:00 | Carrier Recommended (Suvarna river meets ocean) |
-| [St. Mary's Island](st-marys-island.md) | Nature Wonder | **SKIP WITH INFANT** | N/A | Wet boat wading, unshaded sharp volcanic rocks |
+| [St. Mary's Island](st-marys-island.md) | Nature Wonder | **H2 Morning Cruise** | 08:45–11:00 AM | Carrier Only (Hexagonal basalt rock columns, shell picking) |

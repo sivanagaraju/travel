@@ -31,15 +31,23 @@ The coastal corridor between Udupi and Gokarna along NH66 North, featuring monum
                                   - Standing 2-handed Dwi-bhuja Ganapati
                                   - 15-minute effortless village darshan
                                   - Famous Panchakhadya sweet prasada
-                                              ^
-                                              | ~20.5 km South
-                                  [ Murudeshwar Peninsula ]
-                                  - 123-foot colossal Shiva statue
-                                  - 20-storey Raja Gopura (18th floor lift)
-                                  - Bhukailasa cave museum
-                                              ^
-                                              | ~102 km North via NH66
-                                  [ From Udupi / Maravanthe ]
+                                               ^
+                                               | ~20.5 km South
+                                   [ Murudeshwar Peninsula ]
+                                   - 123-foot colossal Shiva statue
+                                   - 20-storey Raja Gopura (18th floor lift)
+                                   - Bhukailasa cave museum
+                                               ^
+                                               | ~38 km South (NH66)
+                                   [ Ottinene Secret Cliff Viewpoint ]
+                                   - Breathtaking cliff overlooking Byndoor river mouth & sea
+                                   - Shaded forest gazebo; 100% paved stroller path
+                                               ^
+                                               | ~18 km South (NH66)
+                                   [ Maravanthe Beach Corridor ]
+                                               ^
+                                               | ~45 km South (NH66)
+                                   [ From Udupi Center ]
 ```
 
 ---
@@ -48,8 +56,9 @@ The coastal corridor between Udupi and Gokarna along NH66 North, featuring monum
 
 | Place | Category | Priority | Recommended Window | Key Feature |
 |---|---|---|---|---|
-| [Murudeshwar Temple & 123-ft Shiva](murudeshwar.md) | Monumental Landmark| **Must-cover** | Sat 14 Nov 15:00–16:15 | World's 2nd tallest Shiva statue, 18th floor lift, Bhukailasa cave |
+| [Ottinene Cliff-Top Viewpoint](ottinene-cliff-viewpoint.md) | Hidden Nature Overlook | **Top Hidden Gem** | Sat 14 Nov 10:50–11:20 | Panoramic cliff view of Byndoor estuary, forest shade, stroller path |
+| [Murudeshwar Temple & 123-ft Shiva](murudeshwar.md) | Monumental Landmark| **Must-cover** | Sat 14 Nov 11:55–13:00 | World's 2nd tallest Shiva statue, 18th floor lift, Bhukailasa cave |
 | [Idagunji Maha Ganapathi](idagunji-ganapati.md) | Village Pilgrimage | **Must-cover** | Sat 14 Nov 16:20–16:50 | Standing Dwi-bhuja Ganapati, Panchakhadya prasadam, 15-min visit |
-| [Kasarkod Eco Beach](eco-beach-kasarkod.md) | Blue Flag Eco Park | **Must-cover** | Sat 14 Nov 17:00–17:45 | Paved stroller walkways, pine grove shade, clean diaper changing |
+| [Kasarkod Eco Beach](eco-beach-kasarkod.md) | Blue Flag Eco Park | **Must-cover** | Sat 14 Nov 14:30–15:30 | Paved stroller walkways, pine grove shade, clean diaper changing |
 | [Sharavathi Backwaters & Mangroves](sharavathi-backwaters-mangrove.md)| River & Nature | Highly Recommended | Approach F: Sun 10:30 AM / App A alt | Kandla Van wooden boardwalk, calm eco-boat cruise, zero ocean waves |
 | [Apsarakonda Falls & Viewpoint](apsarakonda-falls.md) | Nature & Viewpoint | Recommended on App F | Sun 15 Nov 11:30 AM / App A alt | Sweetwater waterfall, Pandava caves, clifftop sea panorama |
