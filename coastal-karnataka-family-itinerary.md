@@ -49,7 +49,7 @@
   [ 17:15 PM ]  🏨 ZERO-WAIT CHECK-IN: BASE 1 — SAMANVAY BOUTIQUE HOTEL, UDUPI CENTER  <=== [UNPACK FOR 2 UNBROKEN NIGHTS]
          |
          |  🚶 17:45 PM - 19:00 PM: 2-min stroll to SRI KRISHNA MATHA (Kanakana Kindi window darshan, feeding temple elephants)
-         |  🍽️ 19:15 PM - 20:30 PM: Dinner at legendary MITRA SAMAJ (Hot Goli Baje, Masala Dosa) / hotel pure-veg thali
+         |  🍽️ 19:15 PM - 20:30 PM: Dinner at legendary MITRA SAMAJ / MTR UDUPI (Rava Idli, Ghee Dosa) / HOTEL SAGAR RATNA (AC pure-veg, baby khichdi)
          v
   [ 21:00 PM ]  BEDTIME: Deep sleep in comfortable AC suite at Samanvay Boutique Hotel [NIGHT 1 OF 2]
 
@@ -87,7 +87,7 @@
          |
          v
   [ 19:30 PM - 20:30 PM ]  🛕 EVENING SRI KRISHNA MATHA DARSHAN (Night Deepotsava oil lamps) OR CAR STREET DINNER
-         |                 🍽️ Mitra Samaj (Hot Goli Baje, Masala Dosa) / Woodlands / Ayodhya pure-veg thali
+         |                 🍽️ Mitra Samaj (Moode, Goli Baje) / MTR Udupi (Rava Idli, Bisibelebath) / Sagar Ratna (AC family dining)
          v
   [ 21:00 PM ]  BEDTIME: Restful sleep in Udupi Center; pack day bags for Saturday coastal drive [NIGHT 2 OF 2]
 
@@ -241,7 +241,11 @@ All road times account for an air-conditioned Innova Crysta, child car seat sync
   - Kanakana Kindi window darshan of Bala Krishna.
   - Children feed the temple cows and elephants in the outer courtyard.
   - Soak in the peaceful evening oil lamps (*Deeparadhana*).
-- **19:15–20:30 PM**: 🍽️ **Dinner on Car Street**: Famous hot Goli Baje, Masala Dosa, and filter coffee at legendary [Mitra Samaj](https://maps.google.com/?q=Mitra+Samaj+Udupi) (or pure-veg thali at Samanvay's *Ayodhya* restaurant). Warm milk and curd rice for baby.
+- **19:15–20:30 PM**: 🍽️ **Dinner Choices in Udupi Town**:
+  - **Option 1 (Car Street Legend):** Famous hot Goli Baje, Tuppeda Masala Dosa, and filter coffee at legendary [Mitra Samaj](https://maps.google.com/?q=Mitra+Samaj+Udupi) on Car Street.
+  - **Option 2 (Bengaluru Heritage in AC):** Authentic Rava Idli with ghee & saagu, Ghee Masala Dosa, and Bisibelebath at **MTR (Mavalli Tiffin Room)** near Kalsanka.
+  - **Option 3 (4-Star Family Dining with High Chairs):** Spotless air-conditioned comfort at **Hotel Sagar Ratna** (at The Ocean Pearl, Kalsanka) or hotel *Ayodhya*; custom unspiced baby khichdi, mild curd rice with cow ghee, and boiled milk for baby bottles.
+  - *(See the full regional menu and baby food tips in [Coastal Karnataka Master Food Guide](coastal-karnataka-food-guide.md)).*
 - **21:00 PM**: Restful bedtime in comfortable AC room. Zero packing tonight!
 
 ---
@@ -373,7 +377,7 @@ Select one of three distinct coastal moods based on family energy:
 
 - **19:30–20:30 PM**: 🛕 **Town Center Return & Dining**:
   - Return to Udupi town center. Stroll through [Sri Krishna Matha](https://maps.google.com/?q=Sri+Krishna+Matha+Udupi) for peaceful evening oil lamps (*Deeparadhana*), or head directly to dinner.
-  - 🍽️ Hot Goli Baje, Masala Dosa, and filter coffee at [Mitra Samaj](https://maps.google.com/?q=Mitra+Samaj+Udupi) on Car Street / pure-veg thali at hotel *Ayodhya*.
+  - 🍽️ **Dinner choices in Udupi:** Heritage tiffin at [Mitra Samaj](https://maps.google.com/?q=Mitra+Samaj+Udupi) on Car Street (Moode, Goli Baje, Tuppeda Dosa), legendary Rava Idli at **MTR Udupi**, or relaxed air-conditioned family meals with baby khichdi at **Hotel Sagar Ratna (Ocean Pearl)** / hotel *Ayodhya*. *(Full menu & baby food tips in [Coastal Karnataka Master Food Guide](coastal-karnataka-food-guide.md)).*
 - **21:00 PM**: Restful bedtime in comfortable AC room. Pack day bags for Saturday's coastal journey north!
 
 ---
@@ -569,3 +573,9 @@ If parents prefer an extra recovery day in Gokarna:
 | **1st Birthday Cake & Gala Dinner** | **Sun 15 Nov, 19:00–21:30 PM**       | Private resort lawn cake cutting with fairy lights            |
 | **Karwar Kali River Halt**          | **Mon 16 Nov, 12:30–14:00 PM**       | Relaxed AC lunch at Hotel Amrut before crossing into Goa      |
 | **South Goa Dabolim Airport (GOI)** | **Mon 16 Nov, 16:30–19:40 PM**       | 100% flat coastal drive; covered aerobridge flight to HYD     |
+
+---
+
+> [!TIP]
+> **Complete Culinary & Food Guide:** For deep-dive descriptions of regional Tulu Nadu specialties (Kori Rotti, Neer Dosa, Pundi, Moode, Manjal Irre da Gatti), Mitra Samaj ordering guides, and baby-safe meal checklists, see the dedicated [Coastal Karnataka & Tulu Nadu Food Guide](coastal-karnataka-food-guide.md).
+

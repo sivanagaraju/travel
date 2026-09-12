@@ -74,10 +74,10 @@
   - **Men:** Must remove shirts and vests before entering the inner sanctum corridor. Dhotis, veshtis, or formal pants allowed; jeans generally tolerated in general queue, but traditional dhotis required in inner sanctum. No shorts or caps.
   - **Women:** Sarees or salwar kameez. Western wear (shorts, skirts, sleeveless) strictly prohibited.
   - **6-year-old & Baby:** Soft ethnic wear or casual cotton clothes.
-- **Mitra Samaj Breakfast (Must-Do):**
-  - Located right opposite the temple gate on Car Street.
-  - Open 06:15 AM – 12:30 PM.
-  - **Legendary items:** Mangalore Buns, Masala Dosa, Goli Baje, Badam Halwa, and fresh filter coffee. Steaming plain idlis are ideal for the baby.
+- **Mitra Samaj Breakfast & Evening Tiffin (Must-Do):**
+  - Located right opposite the temple gate on Car Street (founded in 1949).
+  - Open 06:15 AM – 12:30 PM (Breakfast) and 16:00 – 21:00 PM (Evening tiffin & snacks).
+  - **Legendary items:** **Moode / Kottige** (idlis steamed in fragrant screw pine or jackfruit leaves), **Goli Baje** (piping hot, crisp Mangalore bondas with coconut chutney), **Tuppeda Masala Dosa** (fragrant ghee dosa), Mangalore Buns, Badam Halwa, and freshly brewed filter coffee. Steaming soft Moode/plain idlis with mild coconut milk or warm milk are ideal for the baby.
 
 ---
 
@@ -102,3 +102,8 @@
 | **Weekday 18:00–19:30** | **3 (Active)** | Evening aarti, Car Street chariot procession |
 | **Saturday 10:30–12:30** | **4 (Crowded)** | Outstation tour buses, 45–60 min queue |
 | **Sunday / Festivals** | **5 (Peak Rush)** | Paryaya festival / weekend rush; avoid with baby |
+
+---
+
+*For Mitra Samaj timings, Moode/Goli Baje orders, and Udupi cuisine highlights, see the comprehensive [Coastal Karnataka & Tulu Nadu Food Guide](../../coastal-karnataka-food-guide.md).*
+

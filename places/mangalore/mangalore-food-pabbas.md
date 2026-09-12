@@ -56,6 +56,21 @@
 
 ---
 
+## Iconic Tulu Nadu Regional Dishes (Must-Try Mangalore & Udupi Specialties)
+
+The twin coastal hubs of Mangalore and Udupi share the rich culinary heritage of **Tulu Nadu**. Beyond standard restaurant menus, these traditional heritage specialties are unmissable:
+
+| Dish | Local Name & Description | Flavor Profile | Infant / Child Suitability |
+|---|---|---|---|
+| **Kori Rotti** | Crispy wafer-thin sun-dried rice sheets drenched with piping-hot, spiced coconut chicken curry (*Kori Gassi*). | Rich, spicy, savoury; rotti softens while retaining crisp bite. | Adults & older kids (curry is spicy; serve rotti with mild dal for toddler). |
+| **Neer Dosa** | Ultra-soft, lacy, paper-thin crêpes prepared with unfermented rice & coconut batter. | Delicate, mild, melt-in-the-mouth. | ⭐ **Top Infant Pick:** Super soft; pair with sweet coconut milk + jaggery or mild dal. |
+| **Pundi (Pundi Gatti)** | Round steamed rice dumplings tempered with mustard seeds, curry leaves, and grated coconut. | Earthy, comforting, subtle coconut aroma. | ⭐ **Great for Toddler:** Non-spicy, wholesome steamed rice dumpling easily crumbled with ghee. |
+| **Moode (Kudubu)** | Cylindrical idlis steamed inside fragrant hand-woven screw pine leaves (*kedegeda ire*). | Fluffy, spongy, infused with floral/earthy herbal aroma. | ⭐ **Ideal Baby Tiffin:** Steamed fresh, softer than standard plate idlis; served with mild coconut chutney. |
+| **Manjal Irre da Gatti** | Sweet rice cakes flattened on fresh turmeric leaves (*manjal ire*), stuffed with grated coconut & jaggery, then steamed. | Intensely aromatic, floral, warm sweetness. | Safe & sweet for kids (mild jaggery & coconut filling; seasonal monsoon delicacy). |
+| **Pelakai Gatti (Gujje Gatti)** | Steamed sweet cakes made of pureed ripe sweet jackfruit (*pelakai*) blended with rice/rava and jaggery, steamed in banana/teak leaves. | Naturally sweet, rich tropical jackfruit fragrance. | Wholesome, fiber-rich sweet snack for children. |
+
+---
+
 ## Handling Kids & Baby Logistics
 
 ```
@@ -87,3 +102,8 @@
 | **Pabbas Ice Cream** | 11:00–16:00 (Easy seating) | 19:30–21:30 (15–25 min queue) |
 | **Machali Seafood** | 12:15–12:45 / 19:00–19:30 | 13:15–14:30 (Packed waiting hall) |
 | **Ocean Pearl Coral Rest.** | 07:00–09:00 / 12:30–14:00 | Spacious hotel dining, never unmanageable |
+
+---
+
+*For regional recipes, leaf-steamed delicacies, and baby-safe dining across the entire circuit, see the comprehensive [Coastal Karnataka & Tulu Nadu Food Guide](../../coastal-karnataka-food-guide.md).*
+

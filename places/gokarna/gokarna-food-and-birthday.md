@@ -105,3 +105,8 @@ Gokarna is a small pilgrimage and beach town; high-end European bakeries are sca
 | **Resort Breakfast 08:00–09:30** | **2 (Relaxed)** | Unhurried, peaceful sea breeze, fresh idlis |
 | **Namaste Cafe Lunch 13:00–14:30** | **4 (Crowded)** | High tourist rush; avoid with sleepy infant |
 | **Private Sit-Out Cake 18:45–19:30**| **1 (Pure Family Intimacy)** | 100% serene, private, memorable celebration |
+
+---
+
+*For the complete circuit food guide, regional recipes, and baby-safe meal checklists across all coastal towns, see the primary master [Coastal Karnataka Master Food Guide](../../coastal-karnataka-food-guide.md).*
+

@@ -3,7 +3,8 @@
 These regional guides provide deep operational details for every stop: **pleasant windows**, **where the peace is**, **infant and child handling**, **stroller vs carrier accessibility**, and **calm vs crowded matrices**.
 
 Which **day** you visit each stop depends on your selected approach in [itinerary-approaches.md](../itinerary-approaches.md).  
-Where you **sleep** and what it **costs**: [costs-and-stays.md](../costs-and-stays.md).
+Where you **sleep** and what it **costs**: [costs-and-stays.md](../costs-and-stays.md).  
+Where you **eat** and **kid-safe dining**: [coastal-karnataka-food-guide.md](../coastal-karnataka-food-guide.md).
 
 ```
 Hyderabad (HYD) ──Air──> Mangalore (IXE) ──Ghat──> Temple Belt ──NH66──> Udupi ──NH66──> Murudeshwar / Honnavar ──NH66──> Gokarna ──NH63──> Hubli (HBX) ──Air──> Hyderabad

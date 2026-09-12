@@ -1,6 +1,6 @@
 # Driver Duty Slip & Trip Summary: Coastal Karnataka Tour
 
-![Driver Route Map Infographic](driver-route-map.jpg)
+![Driver Route Map Infographic](images/driver-route-map.jpg)
 
 ## Booking & Vehicle Overview
 
